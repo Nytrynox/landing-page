@@ -75,23 +75,19 @@ open_to: Collaborations & Opportunities
 
 <div align="center">
 
-## Featured Projects
-
-<table>
-<tr>
-<td align="center" width="50%">
+## ✦ PROJECT COMMAND CENTER ✦
 
 ```
-╔══════════════════════════════════════════╗
-║      PROJECT COMMAND CENTER              ║
-║  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  ║
-║  Click any project below to expand       ║
-╚══════════════════════════════════════════╝
+╔═════════════════════════════════════════════════════════════════════════╗
+║                                                                         ║
+║   SYSTEM STATUS: ONLINE                                                 ║
+║   ACCESS LEVEL: ADMIN                                                   ║
+║   LOADING PROJECT MODULES....... [DONE]                                 ║
+║                                                                         ║
+║   [SELECT A CATEGORY MODULE TO EXPAND]                                  ║
+║                                                                         ║
+╚═════════════════════════════════════════════════════════════════════════╝
 ```
-
-</td>
-</tr>
-</table>
 
 </div>
 
@@ -99,303 +95,318 @@ open_to: Collaborations & Opportunities
 
 <details>
 <summary>
-  
-### ⬡ AadhaarInsight360
+<h3> 👁️ COMPUTER VISION SYSTEMS</h3>
+</summary>
 
-<div>
+<br/>
 
+<table>
+<tr>
+<td width="50%">
+
+#### ⬡ AI Gesture Control System
+> Hand gesture recognition interface for system control.
+<br/>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Stars](https://img.shields.io/github/stars/Nytrynox/AadhaarInsight360?style=flat-square&color=yellow)
-![Status](https://img.shields.io/badge/Status-Active-00ff00?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Private](https://img.shields.io/badge/REPO-PRIVATE-red?style=flat-square)
 
-</div>
+</td>
+<td width="50%">
 
-</summary>
-
+#### ⬡ AI Lane Monitoring System
+> Real-time lane detection and driver assistance system.
 <br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/AI-Deep_Learning-FF6F00?style=flat-square)
+![Private](https://img.shields.io/badge/REPO-PRIVATE-red?style=flat-square)
 
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│                                                                         │
-│   █████╗  █████╗ ██████╗ ██╗  ██╗ █████╗  █████╗ ██████╗                │
-│  ██╔══██╗██╔══██╗██╔══██╗██║  ██║██╔══██╗██╔══██╗██╔══██╗               │
-│  ███████║███████║██║  ██║███████║███████║███████║██████╔╝               │
-│  ██╔══██║██╔══██║██║  ██║██╔══██║██╔══██║██╔══██║██╔══██╗               │
-│  ██║  ██║██║  ██║██████╔╝██║  ██║██║  ██║██║  ██║██║  ██║               │
-│  ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝               │
-│                      INSIGHT 360                                        │
-│                                                                         │
-└─────────────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
-#### Overview
-
-> A comprehensive data analytics platform built for the **UIDAI Data Hackathon 2026**. Provides real-time insights into Aadhaar enrolment and update activities across India.
-
-<br/>
-
-<table>
+</td>
+</tr>
 <tr>
 <td>
 
-#### Core Features
-
-| Feature | Description |
-|---------|-------------|
-| Data Quality Scoring | Automated validation and quality metrics |
-| Intelligent Insights | AI-powered trend analysis and predictions |
-| Policy Use-Case Modes | Citizen, Administrator, Policy Maker views |
-| National Scale Ready | Optimized for large-scale datasets |
-| Interactive Visualizations | Real-time charts and dashboards |
-| Downloadable Reports | Export capabilities for analysis |
+#### ⬡ Driver Monitoring System
+> AI system to detect driver Drowsiness and distraction.
+<br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Private](https://img.shields.io/badge/REPO-PRIVATE-red?style=flat-square)
 
 </td>
 <td>
 
-#### Tech Stack
+#### ⬡ Invisibility Cloak
+> Real-time background subtraction and masking (Harry Potter style).
+<br/>
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Image Proc](https://img.shields.io/badge/Img-Processing-blue?style=flat-square)
+![Private](https://img.shields.io/badge/REPO-PRIVATE-red?style=flat-square)
 
-```
-┌──────────────────────┐
-│  CORE               │
-├──────────────────────┤
-│  Python             │
-│  Streamlit          │
-├──────────────────────┤
-│  DATA               │
-├──────────────────────┤
-│  Pandas             │
-│  NumPy              │
-├──────────────────────┤
-│  VISUALIZATION      │
-├──────────────────────┤
-│  Plotly             │
-│  Matplotlib         │
-│  Seaborn            │
-└──────────────────────┘
-```
+</td>
+</tr>
+<tr>
+<td>
+
+#### ⬡ Sign Language Recognition
+> Translates sign language gestures into text/speech.
+<br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Private](https://img.shields.io/badge/REPO-PRIVATE-red?style=flat-square)
+
+</td>
+<td>
+
+#### ⬡ Wildfire Prevention System
+> AI-based early detection system for wildfires.
+<br/>
+![AI](https://img.shields.io/badge/AI-Prevention-green?style=flat-square)
+![Private](https://img.shields.io/badge/REPO-PRIVATE-red?style=flat-square)
 
 </td>
 </tr>
 </table>
 
 <br/>
-
-<div align="center">
-
-[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nytrynox/AadhaarInsight360)
-
-</div>
-
----
-
 </details>
 
 <details>
 <summary>
+<h3> 🤖 AI AGENTS & ASSISTANTS</h3>
+</summary>
 
-### ⬡ Deep Research Agent
+<br/>
 
-<div>
+<table>
+<tr>
+<td width="50%">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+#### ⬡ Deep Research Agent
+> Multi-agent system validating facts across 7 trusted sources.
+<br/>
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Stars](https://img.shields.io/github/stars/Nytrynox/Deep-Research-Agent?style=flat-square&color=yellow)
-![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
+![Gemini](https://img.shields.io/badge/AI-Gemini-4285F4?style=flat-square)
+[![Public](https://img.shields.io/badge/REPO-PUBLIC-green?style=flat-square)](https://github.com/Nytrynox/Deep-Research-Agent)
 
-</div>
+</td>
+<td width="50%">
 
-</summary>
-
+#### ⬡ AI Laptop Control Agent
+> Autonomous agent capable of performing desktop actions.
 <br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Automation](https://img.shields.io/badge/Agent-Automation-yellow?style=flat-square)
+![Private](https://img.shields.io/badge/REPO-PRIVATE-red?style=flat-square)
 
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│                                                                         │
-│  ██████╗ ███████╗███████╗██████╗                                        │
-│  ██╔══██╗██╔════╝██╔════╝██╔══██╗                                       │
-│  ██║  ██║█████╗  █████╗  ██████╔╝                                       │
-│  ██║  ██║██╔══╝  ██╔══╝  ██╔═══╝                                        │
-│  ██████╔╝███████╗███████╗██║                                            │
-│  ╚═════╝ ╚══════╝╚══════╝╚═╝                                            │
-│            RESEARCH AGENT                                               │
-│                                                                         │
-└─────────────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
-#### Overview
-
-> AI-powered multi-agent research system that searches seven trusted sources in parallel, cross-validates results, and generates structured reports with real citations using **Gemini 3**.
-
-<br/>
-
-<table>
+</td>
+</tr>
 <tr>
 <td>
 
-#### Core Features
-
-| Feature | Description |
-|---------|-------------|
-| Multi-Agent Architecture | Parallel processing across agents |
-| 7 Trusted Sources | Wikipedia, arXiv, PubMed, and more |
-| Cross-Validation | Verify facts across multiple sources |
-| Consensus Detection | Identify agreements and conflicts |
-| Knowledge Gap Analysis | Find missing information areas |
-| Real Citations | Structured reports with sources |
+#### ⬡ Self Evolving Agent
+> Experimental agent designed to improve its own code/logic.
+<br/>
+![Neural Networks](https://img.shields.io/badge/AI-Self_Evolving-purple?style=flat-square)
+![Private](https://img.shields.io/badge/REPO-PRIVATE-red?style=flat-square)
 
 </td>
 <td>
 
-#### Tech Stack
+#### ⬡ Universal AI Assistant
+> Few-Shot Multi-Task Learning framework for general assistance.
+<br/>
+![Meta-Learning](https://img.shields.io/badge/AI-Meta_Learning-orange?style=flat-square)
+![Private](https://img.shields.io/badge/REPO-PRIVATE-red?style=flat-square)
 
-```
-┌──────────────────────┐
-│  FRONTEND           │
-├──────────────────────┤
-│  Next.js            │
-│  React              │
-│  JavaScript         │
-├──────────────────────┤
-│  AI ENGINE          │
-├──────────────────────┤
-│  Gemini 3           │
-│  Multi-Agent System │
-├──────────────────────┤
-│  DEPLOYMENT         │
-├──────────────────────┤
-│  Vercel             │
-└──────────────────────┘
-```
+</td>
+</tr>
+<tr>
+<td>
+
+#### ⬡ OS Agent
+> Operating System level interaction agent.
+<br/>
+![Shell](https://img.shields.io/badge/Shell-Scripting-green?style=flat-square)
+![Private](https://img.shields.io/badge/REPO-PRIVATE-red?style=flat-square)
+
+</td>
+<td>
+
+#### ⬡ Project End Agent
+> Automated project finalization and report generation agent.
+<br/>
+![Automation](https://img.shields.io/badge/Bot-Automation-blue?style=flat-square)
+![Private](https://img.shields.io/badge/REPO-PRIVATE-red?style=flat-square)
 
 </td>
 </tr>
 </table>
 
 <br/>
-
-<div align="center">
-
-[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nytrynox/Deep-Research-Agent)
-[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://deep-research-agent-seven.vercel.app)
-
-</div>
-
----
-
 </details>
 
 <details>
 <summary>
-
-### ⬡ Landing Page
-
-<div>
-
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Active-00ff00?style=flat-square)
-
-</div>
-
+<h3> 🌐 WEB PLATFORMS & CLOUD</h3>
 </summary>
-
-<br/>
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│                                                                         │
-│  ██╗      █████╗ ███╗   ██╗██████╗ ██╗███╗   ██╗ ██████╗                │
-│  ██║     ██╔══██╗████╗  ██║██╔══██╗██║████╗  ██║██╔════╝                │
-│  ██║     ███████║██╔██╗ ██║██║  ██║██║██╔██╗ ██║██║  ███╗               │
-│  ██║     ██╔══██║██║╚██╗██║██║  ██║██║██║╚██╗██║██║   ██║               │
-│  ███████╗██║  ██║██║ ╚████║██████╔╝██║██║ ╚████║╚██████╔╝               │
-│  ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚═╝╚═╝  ╚═══╝ ╚═════╝                │
-│                        PAGE                                             │
-│                                                                         │
-└─────────────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
-#### Overview
-
-> A futuristic, animated GitHub profile landing page showcasing projects, skills, and professional journey with dynamic elements and modern design aesthetics.
 
 <br/>
 
 <table>
 <tr>
+<td width="50%">
+
+#### ⬡ Infinall.ai
+> Next.js based advanced AI platform (Source: Infinallnextjs).
+<br/>
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Private](https://img.shields.io/badge/REPO-PRIVATE-red?style=flat-square)
+
+</td>
+<td width="50%">
+
+#### ⬡ SYNAPTICA
+> Futuristic neural interface web platform.
+<br/>
+![Web](https://img.shields.io/badge/Web-Platform-blue?style=flat-square)
+![Private](https://img.shields.io/badge/REPO-PRIVATE-red?style=flat-square)
+
+</td>
+</tr>
+<tr>
 <td>
 
-#### Features
-
-| Feature | Description |
-|---------|-------------|
-| Animated Headers | Wave effects and typing animations |
-| Interactive Dropdowns | Expandable project showcases |
-| Tech Badges | Visual skill representation |
-| Social Integration | All platform links included |
-| Responsive Design | Works on all devices |
-| Modern Aesthetics | Futuristic dark theme |
+#### ⬡ Xerironx Studio
+> Creative studio and portfolio platform.
+<br/>
+![Design](https://img.shields.io/badge/Studio-Creative-purple?style=flat-square)
+![Private](https://img.shields.io/badge/REPO-PRIVATE-red?style=flat-square)
 
 </td>
 <td>
 
-#### Elements
+#### ⬡ Adv. Library System v2.0
+> Comprehensive library management solution.
+<br/>
+![FullStack](https://img.shields.io/badge/App-Full_Stack-orange?style=flat-square)
+![Private](https://img.shields.io/badge/REPO-PRIVATE-red?style=flat-square)
 
-```
-┌──────────────────────┐
-│  ANIMATIONS         │
-├──────────────────────┤
-│  Typing SVG         │
-│  Wave Headers       │
-│  Snake Game         │
-├──────────────────────┤
-│  DESIGN             │
-├──────────────────────┤
-│  Badges             │
-│  ASCII Art          │
-│  Tables             │
-├──────────────────────┤
-│  INTERACTIVITY      │
-├──────────────────────┤
-│  Accordions         │
-│  Links              │
-└──────────────────────┘
-```
+</td>
+</tr>
+<tr>
+<td>
+
+#### ⬡ AI Attendance System 2.0
+> Face recognition based attendance tracking.
+<br/>
+![AI](https://img.shields.io/badge/AI-Face_Rec-green?style=flat-square)
+![Private](https://img.shields.io/badge/REPO-PRIVATE-red?style=flat-square)
+
+</td>
+<td>
+
+#### ⬡ E-Governance Cloud
+> Secure cloud-hosted government service platform.
+<br/>
+![Cloud](https://img.shields.io/badge/Cloud-Security-blue?style=flat-square)
+![Private](https://img.shields.io/badge/REPO-PRIVATE-red?style=flat-square)
 
 </td>
 </tr>
 </table>
 
 <br/>
+</details>
+
+<details>
+<summary>
+<h3> 📊 DATA SCIENCE & ANALYTICS</h3>
+</summary>
+
+<br/>
+
+<table>
+<tr>
+<td width="50%">
+
+#### ⬡ AadhaarInsight360
+> UIDAI Hackathon winner. National scale analytics platform.
+<br/>
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+[![Public](https://img.shields.io/badge/REPO-PUBLIC-green?style=flat-square)](https://github.com/Nytrynox/AadhaarInsight360)
+
+</td>
+<td width="50%">
+
+#### ⬡ Drought Early Warning
+> LSTM based Neural Network for drought prediction (NDDI).
+<br/>
+![LSTM](https://img.shields.io/badge/AI-LSTM-FF6F00?style=flat-square)
+![Research](https://img.shields.io/badge/Research-Climate-green?style=flat-square)
+![Private](https://img.shields.io/badge/REPO-PRIVATE-red?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td>
+
+#### ⬡ Student Analysis Predictor
+> Smart predictive modeling for student performance.
+<br/>
+![ML](https://img.shields.io/badge/ML-Prediction-blue?style=flat-square)
+![Private](https://img.shields.io/badge/REPO-PRIVATE-red?style=flat-square)
+
+</td>
+<td>
+
+#### ⬡ Cloud Resource Allocation
+> Federated Learning approach for energy efficiency.
+<br/>
+![FedLearning](https://img.shields.io/badge/AI-Federated_Learning-purple?style=flat-square)
+![Alllocation](https://img.shields.io/badge/Cloud-Optimization-blue?style=flat-square)
+![Private](https://img.shields.io/badge/REPO-PRIVATE-red?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+<br/>
+</details>
+
+---
+
+## GitHub Analytics
 
 <div align="center">
 
-[![You Are Here](https://img.shields.io/badge/YOU_ARE_HERE-58a6ff?style=for-the-badge)](https://github.com/Nytrynox/landing-page)
+<!-- GitHub Stats Cards -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nytrynox&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nytrynox&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"/>
+
+<br/>
+
+<!-- Top Languages -->
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nytrynox&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
 
 </div>
 
 ---
 
-</details>
-
----
+## Activity Graph
 
 <div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nytrynox&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff)](https://github.com/Nytrynox)
+
+</div>
+
+---
 
 ## Let's Connect
+
+<div align="center">
 
 ```
 ╭──────────────────────────────────────────────────────────────────────────╮
