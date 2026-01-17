@@ -73,158 +73,323 @@ open_to: Collaborations & Opportunities
 
 ---
 
+<div align="center">
+
 ## Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td align="center" width="50%">
 
-<!-- Project Dropdown Navigation -->
-| Select Project |
-|:---:|
-| [AadhaarInsight360](#-aadhaarinsight360) |
-| [Deep Research Agent](#-deep-research-agent) |
-| [Landing Page](#-landing-page) |
+```
+╔══════════════════════════════════════════╗
+║      PROJECT COMMAND CENTER              ║
+║  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  ║
+║  Click any project below to expand       ║
+╚══════════════════════════════════════════╝
+```
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
 <details>
-<summary><h3>AadhaarInsight360</h3></summary>
+<summary>
+  
+### ⬡ AadhaarInsight360
+
+<div>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Stars](https://img.shields.io/github/stars/Nytrynox/AadhaarInsight360?style=flat-square&color=yellow)
+![Status](https://img.shields.io/badge/Status-Active-00ff00?style=flat-square)
+
+</div>
+
+</summary>
 
 <br/>
 
 <div align="center">
 
-![Status](https://img.shields.io/badge/Status-Active-00ff00?style=for-the-badge)
-![Language](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Stars](https://img.shields.io/github/stars/Nytrynox/AadhaarInsight360?style=for-the-badge&color=yellow)
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│                                                                         │
+│   █████╗  █████╗ ██████╗ ██╗  ██╗ █████╗  █████╗ ██████╗                │
+│  ██╔══██╗██╔══██╗██╔══██╗██║  ██║██╔══██╗██╔══██╗██╔══██╗               │
+│  ███████║███████║██║  ██║███████║███████║███████║██████╔╝               │
+│  ██╔══██║██╔══██║██║  ██║██╔══██║██╔══██║██╔══██║██╔══██╗               │
+│  ██║  ██║██║  ██║██████╔╝██║  ██║██║  ██║██║  ██║██║  ██║               │
+│  ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝               │
+│                      INSIGHT 360                                        │
+│                                                                         │
+└─────────────────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
-**A comprehensive data analytics platform built for the UIDAI Data Hackathon 2026**
+#### Overview
 
-Provides real-time insights into Aadhaar enrolment and update activities across India with advanced data visualization and anomaly detection capabilities.
+> A comprehensive data analytics platform built for the **UIDAI Data Hackathon 2026**. Provides real-time insights into Aadhaar enrolment and update activities across India.
 
-#### Key Features
-- Real-time data quality scoring and validation
-- Intelligent insight generation with trend analysis
-- Policy use-case modes (Citizen, Administrator, Policy Maker)
-- Performance optimized for national-scale datasets
-- Interactive charts and downloadable reports
+<br/>
+
+<table>
+<tr>
+<td>
+
+#### Core Features
+
+| Feature | Description |
+|---------|-------------|
+| Data Quality Scoring | Automated validation and quality metrics |
+| Intelligent Insights | AI-powered trend analysis and predictions |
+| Policy Use-Case Modes | Citizen, Administrator, Policy Maker views |
+| National Scale Ready | Optimized for large-scale datasets |
+| Interactive Visualizations | Real-time charts and dashboards |
+| Downloadable Reports | Export capabilities for analysis |
+
+</td>
+<td>
 
 #### Tech Stack
+
 ```
-Python | Streamlit | Pandas | NumPy | Plotly | Matplotlib | Seaborn
+┌──────────────────────┐
+│  CORE               │
+├──────────────────────┤
+│  Python             │
+│  Streamlit          │
+├──────────────────────┤
+│  DATA               │
+├──────────────────────┤
+│  Pandas             │
+│  NumPy              │
+├──────────────────────┤
+│  VISUALIZATION      │
+├──────────────────────┤
+│  Plotly             │
+│  Matplotlib         │
+│  Seaborn            │
+└──────────────────────┘
 ```
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 <div align="center">
 
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nytrynox/AadhaarInsight360)
+[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nytrynox/AadhaarInsight360)
 
 </div>
+
+---
 
 </details>
 
----
-
 <details>
-<summary><h3>Deep Research Agent</h3></summary>
+<summary>
+
+### ⬡ Deep Research Agent
+
+<div>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Stars](https://img.shields.io/github/stars/Nytrynox/Deep-Research-Agent?style=flat-square&color=yellow)
+![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
+
+</div>
+
+</summary>
 
 <br/>
 
 <div align="center">
 
-![Status](https://img.shields.io/badge/Status-Active-00ff00?style=for-the-badge)
-![Language](https://img.shields.io/badge/Language-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/Nytrynox/Deep-Research-Agent?style=for-the-badge&color=yellow)
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│                                                                         │
+│  ██████╗ ███████╗███████╗██████╗                                        │
+│  ██╔══██╗██╔════╝██╔════╝██╔══██╗                                       │
+│  ██║  ██║█████╗  █████╗  ██████╔╝                                       │
+│  ██║  ██║██╔══╝  ██╔══╝  ██╔═══╝                                        │
+│  ██████╔╝███████╗███████╗██║                                            │
+│  ╚═════╝ ╚══════╝╚══════╝╚═╝                                            │
+│            RESEARCH AGENT                                               │
+│                                                                         │
+└─────────────────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
-**AI-powered multi-agent research system with real-time cross-validation**
+#### Overview
 
-Searches seven trusted sources in parallel, cross-validates results, and generates structured reports with real citations using Gemini 3.
+> AI-powered multi-agent research system that searches seven trusted sources in parallel, cross-validates results, and generates structured reports with real citations using **Gemini 3**.
 
-#### Key Features
-- Multi-agent architecture for parallel research
-- Cross-validation across 7 trusted sources
-- Consensus and contradiction identification
-- Real-time knowledge gap detection
-- Structured reports with citations
+<br/>
+
+<table>
+<tr>
+<td>
+
+#### Core Features
+
+| Feature | Description |
+|---------|-------------|
+| Multi-Agent Architecture | Parallel processing across agents |
+| 7 Trusted Sources | Wikipedia, arXiv, PubMed, and more |
+| Cross-Validation | Verify facts across multiple sources |
+| Consensus Detection | Identify agreements and conflicts |
+| Knowledge Gap Analysis | Find missing information areas |
+| Real Citations | Structured reports with sources |
+
+</td>
+<td>
 
 #### Tech Stack
+
 ```
-JavaScript | Next.js | Gemini AI | Multi-Agent Architecture | Vercel
+┌──────────────────────┐
+│  FRONTEND           │
+├──────────────────────┤
+│  Next.js            │
+│  React              │
+│  JavaScript         │
+├──────────────────────┤
+│  AI ENGINE          │
+├──────────────────────┤
+│  Gemini 3           │
+│  Multi-Agent System │
+├──────────────────────┤
+│  DEPLOYMENT         │
+├──────────────────────┤
+│  Vercel             │
+└──────────────────────┘
 ```
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 <div align="center">
 
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nytrynox/Deep-Research-Agent)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://deep-research-agent-seven.vercel.app)
+[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nytrynox/Deep-Research-Agent)
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://deep-research-agent-seven.vercel.app)
 
 </div>
+
+---
 
 </details>
 
----
-
 <details>
-<summary><h3>Landing Page</h3></summary>
+<summary>
+
+### ⬡ Landing Page
+
+<div>
+
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active-00ff00?style=flat-square)
+
+</div>
+
+</summary>
 
 <br/>
 
 <div align="center">
 
-![Status](https://img.shields.io/badge/Status-Active-00ff00?style=for-the-badge)
-![Type](https://img.shields.io/badge/Type-Profile-purple?style=for-the-badge)
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│                                                                         │
+│  ██╗      █████╗ ███╗   ██╗██████╗ ██╗███╗   ██╗ ██████╗                │
+│  ██║     ██╔══██╗████╗  ██║██╔══██╗██║████╗  ██║██╔════╝                │
+│  ██║     ███████║██╔██╗ ██║██║  ██║██║██╔██╗ ██║██║  ███╗               │
+│  ██║     ██╔══██║██║╚██╗██║██║  ██║██║██║╚██╗██║██║   ██║               │
+│  ███████╗██║  ██║██║ ╚████║██████╔╝██║██║ ╚████║╚██████╔╝               │
+│  ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚═╝╚═╝  ╚═══╝ ╚═════╝                │
+│                        PAGE                                             │
+│                                                                         │
+└─────────────────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
-**Personal GitHub profile landing page**
+#### Overview
 
-A futuristic, animated landing page showcasing my projects, skills, and professional journey. Features dynamic elements and modern design aesthetics.
+> A futuristic, animated GitHub profile landing page showcasing projects, skills, and professional journey with dynamic elements and modern design aesthetics.
+
+<br/>
+
+<table>
+<tr>
+<td>
 
 #### Features
-- Animated header and typing effects
-- Interactive project dropdowns
-- Tech stack visualization
-- GitHub statistics integration
-- Social media integration
 
-<div align="center">
+| Feature | Description |
+|---------|-------------|
+| Animated Headers | Wave effects and typing animations |
+| Interactive Dropdowns | Expandable project showcases |
+| Tech Badges | Visual skill representation |
+| Social Integration | All platform links included |
+| Responsive Design | Works on all devices |
+| Modern Aesthetics | Futuristic dark theme |
 
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nytrynox/landing-page)
+</td>
+<td>
 
-</div>
+#### Elements
 
-</details>
+```
+┌──────────────────────┐
+│  ANIMATIONS         │
+├──────────────────────┤
+│  Typing SVG         │
+│  Wave Headers       │
+│  Snake Game         │
+├──────────────────────┤
+│  DESIGN             │
+├──────────────────────┤
+│  Badges             │
+│  ASCII Art          │
+│  Tables             │
+├──────────────────────┤
+│  INTERACTIVITY      │
+├──────────────────────┤
+│  Accordions         │
+│  Links              │
+└──────────────────────┘
+```
 
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<!-- GitHub Stats Cards -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nytrynox&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nytrynox&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"/>
+</td>
+</tr>
+</table>
 
 <br/>
 
-<!-- Top Languages -->
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nytrynox&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+<div align="center">
+
+[![You Are Here](https://img.shields.io/badge/YOU_ARE_HERE-58a6ff?style=for-the-badge)](https://github.com/Nytrynox/landing-page)
 
 </div>
 
 ---
 
-## Activity Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nytrynox&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff)](https://github.com/Nytrynox)
-
-</div>
+</details>
 
 ---
 
@@ -233,10 +398,10 @@ A futuristic, animated landing page showcasing my projects, skills, and professi
 <div align="center">
 
 ```
-                    ╔══════════════════════════════════════╗
-                    ║     Open for Collaborations          ║
-                    ║     & Exciting Opportunities         ║
-                    ╚══════════════════════════════════════╝
+╔══════════════════════════════════════╗
+║     Open for Collaborations          ║
+║     & Exciting Opportunities         ║
+╚══════════════════════════════════════╝
 ```
 
 | Platform | Link | Status |
