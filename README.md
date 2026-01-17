@@ -393,25 +393,140 @@ open_to: Collaborations & Opportunities
 
 ---
 
-## Let's Connect
-
 <div align="center">
 
+## Let's Connect
+
 ```
-╔══════════════════════════════════════╗
-║     Open for Collaborations          ║
-║     & Exciting Opportunities         ║
-╚══════════════════════════════════════╝
+╭──────────────────────────────────────────────────────────────────────────╮
+│                                                                          │
+│   ██████╗ ██████╗ ███╗   ██╗███╗   ██╗███████╗ ██████╗████████╗          │
+│  ██╔════╝██╔═══██╗████╗  ██║████╗  ██║██╔════╝██╔════╝╚══██╔══╝          │
+│  ██║     ██║   ██║██╔██╗ ██║██╔██╗ ██║█████╗  ██║        ██║             │
+│  ██║     ██║   ██║██║╚██╗██║██║╚██╗██║██╔══╝  ██║        ██║             │
+│  ╚██████╗╚██████╔╝██║ ╚████║██║ ╚████║███████╗╚██████╗   ██║             │
+│   ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═══╝╚══════╝ ╚═════╝   ╚═╝             │
+│                                                                          │
+│                    [ TRANSMISSION CHANNELS ACTIVE ]                      │
+│                                                                          │
+╰──────────────────────────────────────────────────────────────────────────╯
 ```
 
-| Platform | Link | Status |
-|:--------:|:----:|:------:|
-| Portfolio | [karthikidikuda.dev](https://www.karthikidikuda.dev/) | Active |
-| LinkedIn | [karthik129259](https://www.linkedin.com/in/karthik129259/) | Active |
-| ORCID | [0009-0008-2949-5592](https://orcid.org/0009-0008-2949-5592) | Active |
-| Twitter/X | [@Karthik64066151](https://x.com/Karthik64066151) | Active |
-| Instagram | [_karthik.z_](https://www.instagram.com/_karthik.z_/) | Active |
-| Reddit | [u/Conscious-Gain29](https://www.reddit.com/user/Conscious-Gain29/) | Active |
+<br/>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### PORTFOLIO
+
+<a href="https://www.karthikidikuda.dev/">
+<img src="https://img.shields.io/badge/karthikidikuda.dev-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+
+```
+STATUS: ONLINE
+UPTIME: 99.9%
+```
+
+</td>
+<td align="center" width="33%">
+
+### LINKEDIN
+
+<a href="https://www.linkedin.com/in/karthik129259/">
+<img src="https://img.shields.io/badge/karthik129259-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+```
+STATUS: ACTIVE
+NETWORK: OPEN
+```
+
+</td>
+<td align="center" width="33%">
+
+### ORCID
+
+<a href="https://orcid.org/0009-0008-2949-5592">
+<img src="https://img.shields.io/badge/0009--0008--2949--5592-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/>
+</a>
+
+```
+STATUS: VERIFIED
+RESEARCH: ACTIVE
+```
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+### TWITTER / X
+
+<a href="https://x.com/Karthik64066151">
+<img src="https://img.shields.io/badge/@Karthik64066151-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
+</a>
+
+```
+STATUS: ACTIVE
+POSTS: PUBLIC
+```
+
+</td>
+<td align="center">
+
+### INSTAGRAM
+
+<a href="https://www.instagram.com/_karthik.z_/">
+<img src="https://img.shields.io/badge/_karthik.z_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+```
+STATUS: ACTIVE
+FEED: VISUAL
+```
+
+</td>
+<td align="center">
+
+### REDDIT
+
+<a href="https://www.reddit.com/user/Conscious-Gain29/">
+<img src="https://img.shields.io/badge/u/Conscious--Gain29-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/>
+</a>
+
+```
+STATUS: ACTIVE
+KARMA: RISING
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+```
+┌──────────────────────────────────────────────────────────────────────────┐
+│                                                                          │
+│   ██████╗ ██████╗ ███████╗███╗   ██╗    ███████╗ ██████╗ ██████╗         │
+│  ██╔═══██╗██╔══██╗██╔════╝████╗  ██║    ██╔════╝██╔═══██╗██╔══██╗        │
+│  ██║   ██║██████╔╝█████╗  ██╔██╗ ██║    █████╗  ██║   ██║██████╔╝        │
+│  ██║   ██║██╔═══╝ ██╔══╝  ██║╚██╗██║    ██╔══╝  ██║   ██║██╔══██╗        │
+│  ╚██████╔╝██║     ███████╗██║ ╚████║    ██║     ╚██████╔╝██║  ██║        │
+│   ╚═════╝ ╚═╝     ╚══════╝╚═╝  ╚═══╝    ╚═╝      ╚═════╝ ╚═╝  ╚═╝        │
+│                                                                          │
+│          C O L L A B O R A T I O N S   &   O P P O R T U N I T I E S     │
+│                                                                          │
+│     > AI/ML Projects ........................... ACCEPTING               │
+│     > Full Stack Development ................... ACCEPTING               │
+│     > UX Design Collaborations ................. ACCEPTING               │
+│     > Research Partnerships .................... ACCEPTING               │
+│     > Open Source Contributions ................ ACCEPTING               │
+│                                                                          │
+└──────────────────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
