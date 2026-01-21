@@ -39,7 +39,7 @@
 <tr>
 <td width="55%">
 
-## 💠 ABOUT ME
+## ABOUT ME
 
 ```js
 const developer = {
@@ -96,10 +96,75 @@ Student & Developer
 
 <br/>
 
+<!-- EXPERTISE MATRIX - Premium Section -->
+<div align="center">
+
+## EXPERTISE MATRIX
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Core Competencies
+
+<br/>
+
+| Domain | Proficiency |
+|:-------|:------------|
+| **Machine Learning / AI** | ![95%](https://img.shields.io/badge/█████████████████░░░-95%25-00d9ff?style=flat-square&labelColor=0d1117) |
+| **Computer Vision** | ![90%](https://img.shields.io/badge/████████████████░░░░-90%25-0062ff?style=flat-square&labelColor=0d1117) |
+| **Full Stack Development** | ![90%](https://img.shields.io/badge/████████████████░░░░-90%25-6e00ff?style=flat-square&labelColor=0d1117) |
+| **Deep Learning** | ![85%](https://img.shields.io/badge/███████████████░░░░░-85%25-00d9ff?style=flat-square&labelColor=0d1117) |
+| **Cloud Architecture** | ![80%](https://img.shields.io/badge/██████████████░░░░░░-80%25-0062ff?style=flat-square&labelColor=0d1117) |
+| **System Design** | ![80%](https://img.shields.io/badge/██████████████░░░░░░-80%25-6e00ff?style=flat-square&labelColor=0d1117) |
+
+</td>
+<td width="50%" valign="top">
+
+### Current Focus
+
+<br/>
+
+![Primary Focus](https://img.shields.io/badge/PRIMARY-Intelligent_Systems-00d9ff?style=for-the-badge&labelColor=0d1117)
+
+<br/>
+
+Building next-generation AI applications that bridge **research** and **production**.
+
+<br/>
+
+**Active Development Areas:**
+
+![AI Agents](https://img.shields.io/badge/-Autonomous_AI_Agents-0d1117?style=flat-square&logo=robot&logoColor=00d9ff)
+![Computer Vision](https://img.shields.io/badge/-Real--time_Computer_Vision-0d1117?style=flat-square&logo=opencv&logoColor=0062ff)
+![Enterprise AI](https://img.shields.io/badge/-Enterprise_AI_Solutions-0d1117?style=flat-square&logo=tensorflow&logoColor=6e00ff)
+
+<br/>
+
+**Research Interests:**
+
+![Neural Networks](https://img.shields.io/badge/-Neural_Architectures-0d1117?style=flat-square)
+![Edge AI](https://img.shields.io/badge/-Edge_Computing-0d1117?style=flat-square)
+![MLOps](https://img.shields.io/badge/-MLOps_Pipelines-0d1117?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
 <!-- ACHIEVEMENTS & CERTIFICATIONS -->
 <div align="center">
 
-## 🏆 ACHIEVEMENTS & CERTIFICATIONS
+## ACHIEVEMENTS & CERTIFICATIONS
 
 <br/>
 
@@ -150,7 +215,7 @@ AadhaarInsight360
 <!-- TECH STACK -->
 <div align="center">
 
-## 🛠️ TECH ARSENAL
+## TECHNOLOGY STACK
 
 <br/>
 
@@ -225,7 +290,7 @@ AadhaarInsight360
 <!-- PROJECT SECTION -->
 <div align="center">
 
-## 🚀 PROJECT ARCHIVE (62+ Projects)
+## PROJECT ARCHIVE (62+ Projects)
 
 ```
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
@@ -245,7 +310,7 @@ AadhaarInsight360
 
 <!-- CATEGORY 1: COMPUTER VISION -->
 <details>
-<summary><h3>👁️ COMPUTER VISION & IMAGE PROCESSING (8 Projects)</h3></summary>
+<summary><h3>COMPUTER VISION & IMAGE PROCESSING (8 Projects)</h3></summary>
 
 <br/>
 
@@ -264,7 +329,7 @@ AadhaarInsight360
 
 <!-- CATEGORY 2: AI AGENTS -->
 <details>
-<summary><h3>🤖 AI AGENTS & AUTONOMOUS SYSTEMS (8 Projects)</h3></summary>
+<summary><h3>AI AGENTS & AUTONOMOUS SYSTEMS (8 Projects)</h3></summary>
 
 <br/>
 
@@ -283,7 +348,7 @@ AadhaarInsight360
 
 <!-- CATEGORY 3: WEB PLATFORMS -->
 <details>
-<summary><h3>🌐 WEB DEVELOPMENT & PLATFORMS (12 Projects)</h3></summary>
+<summary><h3>WEB DEVELOPMENT & PLATFORMS (12 Projects)</h3></summary>
 
 <br/>
 
@@ -306,7 +371,7 @@ AadhaarInsight360
 
 <!-- CATEGORY 4: DATA SCIENCE -->
 <details>
-<summary><h3>📊 DATA SCIENCE & ANALYTICS (6 Projects)</h3></summary>
+<summary><h3>DATA SCIENCE & ANALYTICS (6 Projects)</h3></summary>
 
 <br/>
 
@@ -323,7 +388,7 @@ AadhaarInsight360
 
 <!-- CATEGORY 5: CLOUD & SECURITY -->
 <details>
-<summary><h3>☁️ CLOUD & SECURITY (6 Projects)</h3></summary>
+<summary><h3>CLOUD & SECURITY (6 Projects)</h3></summary>
 
 <br/>
 
@@ -340,7 +405,7 @@ AadhaarInsight360
 
 <!-- CATEGORY 6: MANAGEMENT SYSTEMS -->
 <details>
-<summary><h3>📋 MANAGEMENT & ENTERPRISE SYSTEMS (6 Projects)</h3></summary>
+<summary><h3>MANAGEMENT & ENTERPRISE SYSTEMS (6 Projects)</h3></summary>
 
 <br/>
 
@@ -357,7 +422,7 @@ AadhaarInsight360
 
 <!-- CATEGORY 7: HACKATHON & EXPERIMENTAL -->
 <details>
-<summary><h3>🧪 HACKATHONS & EXPERIMENTS (8 Projects)</h3></summary>
+<summary><h3>HACKATHONS & EXPERIMENTS (8 Projects)</h3></summary>
 
 <br/>
 
@@ -380,53 +445,10 @@ AadhaarInsight360
 
 <br/>
 
-<!-- GITHUB STATS -->
-<div align="center">
-
-## 📈 GITHUB ANALYTICS
-
-<br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nytrynox&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=6e00ff&text_color=ffffff&ring_color=00d9ff"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nytrynox&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=6e00ff&fire=00d9ff&currStreakLabel=00d9ff"/>
-
-<br/><br/>
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nytrynox&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff"/>
-
-<br/><br/>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nytrynox&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=6e00ff&point=ffffff&area=true&area_color=6e00ff)](https://github.com/Nytrynox)
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
 <!-- CONNECT SECTION -->
 <div align="center">
 
-## 🔗 LET'S CONNECT
-
-<br/>
-
-```
-╔══════════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                      ║
-║   ████████╗██████╗  █████╗ ███╗   ██╗███████╗███╗   ███╗██╗████████╗                 ║
-║   ╚══██╔══╝██╔══██╗██╔══██╗████╗  ██║██╔════╝████╗ ████║██║╚══██╔══╝                 ║
-║      ██║   ██████╔╝███████║██╔██╗ ██║███████╗██╔████╔██║██║   ██║                    ║
-║      ██║   ██╔══██╗██╔══██║██║╚██╗██║╚════██║██║╚██╔╝██║██║   ██║                    ║
-║      ██║   ██║  ██║██║  ██║██║ ╚████║███████║██║ ╚═╝ ██║██║   ██║                    ║
-║      ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝     ╚═╝╚═╝   ╚═╝                    ║
-║                                                                                      ║
-║                              [ ALL CHANNELS ACTIVE ]                                 ║
-║                                                                                      ║
-╚══════════════════════════════════════════════════════════════════════════════════════╝
-```
+## LET'S CONNECT
 
 <br/>
 
@@ -467,22 +489,22 @@ AadhaarInsight360
 
 <br/>
 
-```
-┌────────────────────────────────────────────────────────────────────────────────────┐
-│                                                                                    │
-│                         🟢 OPEN FOR COLLABORATIONS 🟢                              │
-│                                                                                    │
-│     ► AI/ML Research & Development ................................ ACCEPTING     │
-│     ► Full Stack Web Applications ................................. ACCEPTING     │
-│     ► Computer Vision Projects .................................... ACCEPTING     │
-│     ► Open Source Contributions ................................... ACCEPTING     │
-│     ► Hackathon Teams ............................................. ACCEPTING     │
-│     ► Freelance Projects .......................................... ACCEPTING     │
-│                                                                                    │
-│                        📧 Reach out via LinkedIn or Portfolio                      │
-│                                                                                    │
-└────────────────────────────────────────────────────────────────────────────────────┘
-```
+### OPEN FOR COLLABORATIONS
+
+<br/>
+
+| Opportunity | Status |
+|:------------|:------:|
+| AI/ML Research & Development | ![Accepting](https://img.shields.io/badge/-ACCEPTING-00ff00?style=flat-square) |
+| Full Stack Web Applications | ![Accepting](https://img.shields.io/badge/-ACCEPTING-00ff00?style=flat-square) |
+| Computer Vision Projects | ![Accepting](https://img.shields.io/badge/-ACCEPTING-00ff00?style=flat-square) |
+| Open Source Contributions | ![Accepting](https://img.shields.io/badge/-ACCEPTING-00ff00?style=flat-square) |
+| Hackathon Teams | ![Accepting](https://img.shields.io/badge/-ACCEPTING-00ff00?style=flat-square) |
+| Freelance Projects | ![Accepting](https://img.shields.io/badge/-ACCEPTING-00ff00?style=flat-square) |
+
+<br/>
+
+**Reach out via LinkedIn or Portfolio**
 
 </div>
 
@@ -493,15 +515,6 @@ AadhaarInsight360
 <br/>
 
 <div align="center">
-
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="Snake Animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-</picture>
-
-<br/><br/>
 
 *"Building intelligent systems that make a difference"*
 
