@@ -114,7 +114,7 @@
         <br/><br/>
         <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="80" height="80"/>
         <br/><br/>
-        <img src="https://progress-bar.dev/28/?scale=100&width=180&color=00fff5&suffix=%25"/>
+        <img src="https://img.shields.io/badge/CAPACITY-28%25-00fff5?style=flat-square"/>
         <br/><sub>SYNAPTICA, NeuroXAI, Self-Evolving Agent</sub>
       </td>
       <td align="center" width="33%">
@@ -122,7 +122,7 @@
         <br/><br/>
         <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="80" height="80"/>
         <br/><br/>
-        <img src="https://progress-bar.dev/15/?scale=100&width=180&color=e94560&suffix=%25"/>
+        <img src="https://img.shields.io/badge/CAPACITY-15%25-e94560?style=flat-square"/>
         <br/><sub>Gesture Control, Driver Monitoring, YOLO</sub>
       </td>
       <td align="center" width="33%">
@@ -130,7 +130,7 @@
         <br/><br/>
         <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="80" height="80"/>
         <br/><br/>
-        <img src="https://progress-bar.dev/23/?scale=100&width=180&color=0f3460&suffix=%25"/>
+        <img src="https://img.shields.io/badge/CAPACITY-23%25-0f3460?style=flat-square"/>
         <br/><sub>Portfolio, Landing Pages, E-commerce</sub>
       </td>
     </tr>
@@ -140,7 +140,7 @@
         <br/><br/>
         <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="80" height="80"/>
         <br/><br/>
-        <img src="https://progress-bar.dev/8/?scale=100&width=180&color=16213e&suffix=%25"/>
+        <img src="https://img.shields.io/badge/CAPACITY-8%25-16213e?style=flat-square"/>
         <br/><sub>Federated Learning, AWS, GCP</sub>
       </td>
       <td align="center" width="33%">
@@ -148,7 +148,7 @@
         <br/><br/>
         <img src="https://media.giphy.com/media/uhQuegHFqkVYuFMXMQ/giphy.gif" width="80" height="80"/>
         <br/><br/>
-        <img src="https://progress-bar.dev/3/?scale=100&width=180&color=1a1a2e&suffix=%25"/>
+        <img src="https://img.shields.io/badge/CAPACITY-3%25-1a1a2e?style=flat-square"/>
         <br/><sub>AadhaarInsight360, UIDAI-815</sub>
       </td>
       <td align="center" width="33%">
@@ -156,7 +156,7 @@
         <br/><br/>
         <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="80" height="80"/>
         <br/><br/>
-        <img src="https://progress-bar.dev/3/?scale=100&width=180&color=333333&suffix=%25"/>
+        <img src="https://img.shields.io/badge/CAPACITY-3%25-333333?style=flat-square"/>
         <br/><sub>CAM AI, Insta Tool</sub>
       </td>
     </tr>
