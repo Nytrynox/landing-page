@@ -57,11 +57,10 @@
           
 | | |
 |:---:|:---|
-| <img src="https://img.icons8.com/fluency/48/student-center.png" width="24"/> | **Student** at Marwadi University |
-| <img src="https://img.icons8.com/fluency/48/globe.png" width="24"/> | **Location:** India (UTC +05:30) |
-| <img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" width="24"/> | **Focus:** AI/ML, Computer Vision, Full Stack |
-| <img src="https://img.icons8.com/fluency/48/source-code.png" width="24"/> | **Projects:** 65+ and counting |
-| <img src="https://img.icons8.com/fluency/48/trophy.png" width="24"/> | **Achievement:** UIDAI Hackathon 2026 |
+| <img src="https://cdn-icons-png.flaticon.com/512/2641/2641457.png" width="24"/> | **Student** at Marwadi University |
+| <img src="https://cdn-icons-png.flaticon.com/512/684/684908.png" width="24"/> | **Location:** India (UTC +05:30) |
+| <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="24"/> | **Focus:** AI/ML, Computer Vision, Full Stack |
+| <img src="https://cdn-icons-png.flaticon.com/512/1183/1183669.png" width="24"/> | **Projects:** 65+ and counting |
 
 </div>
       </td>
@@ -72,77 +71,92 @@
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- 3D Project Distribution Visualization -->
+<!-- Advanced Project Distribution Matrix -->
 <div align="center">
   <h2>
     <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"/>
-    PROJECT DISTRIBUTION
+    PROJECT MATRIX
     <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"/>
   </h2>
 </div>
 
+<!-- Advanced Hexagonal Grid Visualization -->
 <div align="center">
 
 ```
-                    ╔══════════════════════════════════════════════════════════════╗
-                    ║           P R O J E C T   D I S T R I B U T I O N            ║
-                    ║                      65+ REPOSITORIES                         ║
-                    ╠══════════════════════════════════════════════════════════════╣
-                    ║                                                              ║
-                    ║                        ▓▓▓▓▓▓▓▓▓▓                            ║
-                    ║                    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓                        ║
-                    ║                 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓                     ║
-                    ║              ████████████████░░░░░░░░░░░░░░                  ║
-                    ║            ████ AI/ML ████░░░░░░░░░░░░░░░░░░░░               ║
-                    ║          ████  (28%)   ████░░ Computer ░░░░░░░░░             ║
-                    ║        ████████████████████░░ Vision   ░░░░░░░░░░            ║
-                    ║        ████████████████████░░ (15%)    ░░░░░░░░░░            ║
-                    ║        ▒▒▒▒▒▒▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░████████            ║
-                    ║        ▒▒▒▒ Cloud ▒▒░░░░░░░░░░░░░░░░░░████ Web ██            ║
-                    ║        ▒▒▒▒ (8%)  ▒▒░░░░░░░░░░░░░░░░░░████(23%)██            ║
-                    ║          ▒▒▒▒▒▒▒▒▒▒▒░░░░░░░░░░░░░░░░████████████             ║
-                    ║            ▀▀▀▀▀▀▀▀▀▀▀▀░░░░░░░░░░░░░░████████                ║
-                    ║                ▀▀▀▀▀▀▀▀▀░░░ Other ░░░░████                   ║
-                    ║                    ▀▀▀▀▀▀░░ (26%) ░░░░                       ║
-                    ║                        ▀▀▀▀▀▀▀▀▀▀                            ║
-                    ║                                                              ║
-                    ╠══════════════════════════════════════════════════════════════╣
-                    ║  ████ AI/ML: 18    ░░░░ Vision: 10   ████ Web: 15            ║
-                    ║  ▒▒▒▒ Cloud: 5     ░░░░ Other: 17    ████ Private: 2         ║
-                    ╚══════════════════════════════════════════════════════════════╝
+    ╭─────────────────────────────────────────────────────────────────────────────╮
+    │                                                                             │
+    │      ┌───────────────────────────────────────────────────────────────┐      │
+    │      │                    █████ PROJECT NEXUS █████                   │      │
+    │      │                       ═══════════════                          │      │
+    │      │                         65+ SYSTEMS                            │      │
+    │      └───────────────────────────────────────────────────────────────┘      │
+    │                                                                             │
+    │           ╔═══════════════╗              ╔═══════════════╗                  │
+    │          ╱                 ╲            ╱                 ╲                 │
+    │         ╱   ▓▓▓▓▓▓▓▓▓▓▓▓▓   ╲          ╱   ░░░░░░░░░░░░░   ╲                │
+    │        ║   ▓▓  AI / ML  ▓▓   ║        ║   ░░  VISION  ░░   ║               │
+    │        ║   ▓▓▓  18  ▓▓▓▓▓   ║        ║   ░░░░  10  ░░░░   ║               │
+    │        ║   ▓▓▓ (28%) ▓▓▓▓   ║        ║   ░░░ (15%) ░░░░   ║               │
+    │         ╲   ▓▓▓▓▓▓▓▓▓▓▓▓▓   ╱          ╲   ░░░░░░░░░░░░░   ╱                │
+    │          ╲                 ╱            ╲                 ╱                 │
+    │           ╚═══════════════╝              ╚═══════════════╝                  │
+    │                                                                             │
+    │    ╔═══════════════╗    ╔═══════════════╗    ╔═══════════════╗             │
+    │   ╱                 ╲  ╱                 ╲  ╱                 ╲            │
+    │  ║   ████ WEB ████   ║║   ▒▒ CLOUD ▒▒   ║║   ▀▀ OTHER ▀▀   ║           │
+    │  ║   ████  15  ████   ║║   ▒▒▒  5  ▒▒▒   ║║   ▀▀▀  17  ▀▀▀   ║           │
+    │  ║   ███ (23%) ███   ║║   ▒▒ (8%) ▒▒▒   ║║   ▀▀ (26%) ▀▀▀   ║           │
+    │   ╲                 ╱  ╲                 ╱  ╲                 ╱            │
+    │    ╚═══════════════╝    ╚═══════════════╝    ╚═══════════════╝             │
+    │                                                                             │
+    │         ┌─────────────────────────────────────────────────────┐             │
+    │         │  ▓▓ AI/ML    ░░ Vision    ██ Web    ▒▒ Cloud    ▀▀ Other  │             │
+    │         └─────────────────────────────────────────────────────┘             │
+    │                                                                             │
+    ╰─────────────────────────────────────────────────────────────────────────────╯
 ```
 
 </div>
 
 <br/>
 
-<!-- Detailed Project Stats -->
+<!-- Animated Progress Bars -->
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="16%">
-        <img src="https://img.shields.io/badge/18-00fff5?style=for-the-badge&labelColor=0a0a0a" alt="18"/>
-        <br/><sub><b>AI / ML</b></sub>
+      <td align="left" width="100%">
+        <strong>AI / MACHINE LEARNING</strong>
+        <br/>
+        <img src="https://progress-bar.dev/28/?scale=100&title=18%20Projects&width=500&color=00fff5&suffix=%25" alt="AI/ML"/>
       </td>
-      <td align="center" width="16%">
-        <img src="https://img.shields.io/badge/10-e94560?style=for-the-badge&labelColor=0a0a0a" alt="10"/>
-        <br/><sub><b>VISION</b></sub>
+    </tr>
+    <tr>
+      <td align="left">
+        <strong>WEB DEVELOPMENT</strong>
+        <br/>
+        <img src="https://progress-bar.dev/23/?scale=100&title=15%20Projects&width=500&color=e94560&suffix=%25" alt="Web"/>
       </td>
-      <td align="center" width="16%">
-        <img src="https://img.shields.io/badge/5-0f3460?style=for-the-badge&labelColor=0a0a0a" alt="5"/>
-        <br/><sub><b>CLOUD</b></sub>
+    </tr>
+    <tr>
+      <td align="left">
+        <strong>COMPUTER VISION</strong>
+        <br/>
+        <img src="https://progress-bar.dev/15/?scale=100&title=10%20Projects&width=500&color=0f3460&suffix=%25" alt="Vision"/>
       </td>
-      <td align="center" width="16%">
-        <img src="https://img.shields.io/badge/15-1a1a2e?style=for-the-badge&labelColor=0a0a0a" alt="15"/>
-        <br/><sub><b>WEB</b></sub>
+    </tr>
+    <tr>
+      <td align="left">
+        <strong>CLOUD SYSTEMS</strong>
+        <br/>
+        <img src="https://progress-bar.dev/8/?scale=100&title=5%20Projects&width=500&color=16213e&suffix=%25" alt="Cloud"/>
       </td>
-      <td align="center" width="16%">
-        <img src="https://img.shields.io/badge/2-16213e?style=for-the-badge&labelColor=0a0a0a" alt="2"/>
-        <br/><sub><b>HACKATHON</b></sub>
-      </td>
-      <td align="center" width="16%">
-        <img src="https://img.shields.io/badge/2-333333?style=for-the-badge&labelColor=0a0a0a" alt="2"/>
-        <br/><sub><b>PRIVATE</b></sub>
+    </tr>
+    <tr>
+      <td align="left">
+        <strong>OTHER / PRIVATE</strong>
+        <br/>
+        <img src="https://progress-bar.dev/26/?scale=100&title=19%20Projects&width=500&color=1a1a2e&suffix=%25" alt="Other"/>
       </td>
     </tr>
   </table>
@@ -180,7 +194,7 @@
 
   **CLOUD & INFRASTRUCTURE**
   
-  <a href="#"><img src="https://skillicons.dev/icons?i=aws,gcp,firebase,docker,mongodb,postgres&theme=dark" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=aws,gcp,firebase,docker,mongodb&theme=dark" /></a>
 
   **DESIGN & TOOLS**
   
@@ -214,7 +228,7 @@
         <p align="center">
           <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white&labelColor=0a0a0a"/>
           <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white&labelColor=0a0a0a"/>
-          <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white&labelColor=0a0a0a"/>
+          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white&labelColor=0a0a0a"/>
         </p>
       </td>
       <td width="50%">
@@ -314,7 +328,7 @@
 
 | Project | Description | Tech Stack |
 |:--------|:------------|:-----------|
-| **SYNAPTICA** | AI Personal Assistant with contextual understanding and task automation | PyTorch, FastAPI, PostgreSQL |
+| **SYNAPTICA** | AI Personal Assistant with contextual understanding and task automation | PyTorch, FastAPI, MongoDB |
 | **NeuroXAI** | Explainable AI for Alzheimer's detection from MRI scans | TensorFlow, Grad-CAM, React |
 | **Self-Evolving Agent** | Recursive self-improvement AI agent with code modification | GPT-4, Claude, Docker |
 | **AI Wildfire Prevention** | Early warning using satellite imagery and IoT sensors | CNN, NASA FIRMS, GIS |
@@ -431,7 +445,7 @@
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- Connect Section -->
+<!-- Redesigned Connect Section - Futuristic Terminal Style -->
 <div align="center">
   <h2>
     <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"/>
@@ -440,23 +454,56 @@
   </h2>
 </div>
 
+<!-- Terminal Style Connect -->
 <div align="center">
-  
-  [![Portfolio](https://img.shields.io/badge/PORTFOLIO-karthikidikuda.dev-00fff5?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0a0a0a)](https://www.karthikidikuda.dev/)
-  [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Karthik_Idikuda-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a)](https://linkedin.com/in/karthik129259)
-  [![Twitter](https://img.shields.io/badge/TWITTER-@Karthik64066151-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0a0a0a)](https://twitter.com/Karthik64066151)
-  
-  [![Instagram](https://img.shields.io/badge/INSTAGRAM-_karthik.z_-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a)](https://instagram.com/_karthik.z_)
-  [![Reddit](https://img.shields.io/badge/REDDIT-u/Conscious--Gain29-FF4500?style=for-the-badge&logo=reddit&logoColor=white&labelColor=0a0a0a)](https://reddit.com/user/Conscious-Gain29)
-  [![ORCID](https://img.shields.io/badge/ORCID-0009--0008--2949--5592-A6CE39?style=for-the-badge&logo=orcid&logoColor=white&labelColor=0a0a0a)](https://orcid.org/0009-0008-2949-5592)
-  
+
+```
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                                                                              │
+│   ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀    │
+│                       ░█▀▀░█▀█░█▀█░█▀█░█▀▀░█▀▀░▀█▀                           │
+│                       ░█░░░█░█░█░█░█░█░█▀▀░█░░░░█░                           │
+│                       ░▀▀▀░▀▀▀░▀░▀░▀░▀░▀▀▀░▀▀▀░░▀░                           │
+│   ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀    │
+│                                                                              │
+│   $ connect --portfolio        ➜  karthikidikuda.dev                        │
+│   $ connect --linkedin         ➜  linkedin.com/in/karthik129259             │
+│   $ connect --twitter          ➜  twitter.com/Karthik64066151               │
+│   $ connect --instagram        ➜  instagram.com/_karthik.z_                 │
+│   $ connect --reddit           ➜  reddit.com/user/Conscious-Gain29          │
+│   $ connect --orcid            ➜  orcid.org/0009-0008-2949-5592             │
+│                                                                              │
+│   ─────────────────────────────────────────────────────────────────────────  │
+│                                                                              │
+│   STATUS: ● ONLINE   │   RESPONSE TIME: < 24 HOURS   │   OPEN TO WORK       │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
+
 </div>
 
 <br/>
 
-<!-- Metrics Grid -->
+<!-- Social Links as Futuristic Buttons -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nytrynox&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" width="100%"/>
+  <a href="https://www.karthikidikuda.dev/">
+    <img src="https://img.shields.io/badge/▸_PORTFOLIO-00fff5?style=for-the-badge&labelColor=0a0a0a" alt="Portfolio"/>
+  </a>
+  <a href="https://linkedin.com/in/karthik129259">
+    <img src="https://img.shields.io/badge/▸_LINKEDIN-0077B5?style=for-the-badge&labelColor=0a0a0a" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/Karthik64066151">
+    <img src="https://img.shields.io/badge/▸_TWITTER-1DA1F2?style=for-the-badge&labelColor=0a0a0a" alt="Twitter"/>
+  </a>
+  <a href="https://instagram.com/_karthik.z_">
+    <img src="https://img.shields.io/badge/▸_INSTAGRAM-E4405F?style=for-the-badge&labelColor=0a0a0a" alt="Instagram"/>
+  </a>
+  <a href="https://reddit.com/user/Conscious-Gain29">
+    <img src="https://img.shields.io/badge/▸_REDDIT-FF4500?style=for-the-badge&labelColor=0a0a0a" alt="Reddit"/>
+  </a>
+  <a href="https://orcid.org/0009-0008-2949-5592">
+    <img src="https://img.shields.io/badge/▸_ORCID-A6CE39?style=for-the-badge&labelColor=0a0a0a" alt="ORCID"/>
+  </a>
 </div>
 
 <br/>
