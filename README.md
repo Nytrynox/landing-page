@@ -1,617 +1,362 @@
+<!-- Animated Header -->
 <div align="center">
-
-<!-- Premium Animated Header with Gradient -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:1a1b27,50:00d9ff,75:6e00ff,100:0d1117&height=220&section=header&text=&fontSize=0"/>
-
-<br/>
-
-<!-- Glowing Name with Custom Styling -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=70&lines=KARTHIK+IDIKUDA" alt="Name" />
-
-<br/>
-
-<!-- Role Badge Strip -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2000&pause=500&color=FFFFFF&center=true&vCenter=true&width=700&height=40&lines=AI+ENGINEER+%E2%97%86+FULL+STACK+DEVELOPER+%E2%97%86+SYSTEM+ARCHITECT" alt="Roles" />
-
-<br/><br/>
-
-<!-- Premium Status Indicators -->
-<a href="https://www.karthikidikuda.dev/"><img src="https://img.shields.io/badge/AVAILABLE_FOR_HIRE-00ff00?style=for-the-badge&labelColor=0d1117&logo=checkmarx&logoColor=00ff00"/></a>
-&nbsp;
-<img src="https://img.shields.io/badge/62%2B_PROJECTS-00d9ff?style=for-the-badge&labelColor=0d1117&logo=stackblitz&logoColor=00d9ff"/>
-&nbsp;
-<img src="https://img.shields.io/badge/SINCE_2020-6e00ff?style=for-the-badge&labelColor=0d1117&logo=clockify&logoColor=6e00ff"/>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=Nytrynox&style=for-the-badge&color=ff6b6b&labelColor=0d1117&label=PROFILE+VIEWS"/>
-
-<br/><br/>
-
-<!-- Quick Action Buttons -->
-<a href="https://www.karthikidikuda.dev/"><img src="https://img.shields.io/badge/PORTFOLIO-VIEW_WORK-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117"/></a>
-&nbsp;
-<a href="https://www.linkedin.com/in/karthik129259/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/></a>
-&nbsp;
-<a href="https://orcid.org/0009-0008-2949-5592"><img src="https://img.shields.io/badge/ORCID-RESEARCH-A6CE39?style=for-the-badge&logo=orcid&logoColor=white&labelColor=0d1117"/></a>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=KARTHIK%20IDIKUDA&fontSize=50&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=AI%20Product%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20UX%20Designer&descSize=18&descAlignY=55&descColor=8b949e" width="100%"/>
 </div>
 
-<br/>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<!-- NEURAL INTERFACE SECTION -->
+<!-- Typing Animation -->
 <div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                                      ║
-║     ███╗   ██╗███████╗██╗   ██╗██████╗  █████╗ ██╗         ██╗███╗   ██╗████████╗███████╗██████╗     ║
-║     ████╗  ██║██╔════╝██║   ██║██╔══██╗██╔══██╗██║         ██║████╗  ██║╚══██╔══╝██╔════╝██╔══██╗    ║
-║     ██╔██╗ ██║█████╗  ██║   ██║██████╔╝███████║██║         ██║██╔██╗ ██║   ██║   █████╗  ██████╔╝    ║
-║     ██║╚██╗██║██╔══╝  ██║   ██║██╔══██╗██╔══██║██║         ██║██║╚██╗██║   ██║   ██╔══╝  ██╔══██╗    ║
-║     ██║ ╚████║███████╗╚██████╔╝██║  ██║██║  ██║███████╗    ██║██║ ╚████║   ██║   ███████╗██║  ██║    ║
-║     ╚═╝  ╚═══╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝    ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚══════╝╚═╝  ╚═╝    ║
-║                                                                                                      ║
-╚══════════════════════════════════════════════════════════════════════════════════════════════════════╝
-```
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+the+Future+with+AI+%26+Code;65%2B+Projects+%7C+18+AI%2FML+Systems;Self-Evolving+Agents+%7C+Computer+Vision" alt="Typing SVG" />
+  </a>
 </div>
 
-<br/>
-
-<!-- SYSTEM PROFILE CARD -->
-<table>
-<tr>
-<td width="50%">
-
+<!-- Profile Introduction -->
 <div align="center">
-
-### `> SYSTEM.PROFILE`
-
-</div>
-
-```typescript
-interface Developer {
-  readonly name: "Karthik Idikuda";
-  readonly location: "Marwadi University, India";
-  readonly status: "B.Tech Student";
   
-  readonly systemCapabilities: {
-    primary: ["AI/ML Engineering", "Full Stack Development"];
-    secondary: ["System Architecture", "UX Design"];
-    emerging: ["Edge AI", "Autonomous Systems"];
-  };
+  [![Portfolio](https://img.shields.io/badge/Portfolio-karthikidikuda.dev-00d4ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.karthikidikuda.dev/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karthik129259)
+  [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Karthik64066151)
   
-  readonly neuralNetworks: {
-    computerVision: "ACTIVE";
-    naturalLanguage: "ACTIVE";
-    deepLearning: "ACTIVE";
-  };
+</div>
+
+<br/>
+
+<!-- About Section -->
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">About Me</h3>
+        <p align="center">
+          <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding Animation"/>
+        </p>
+        <p align="center">
+          AI Product Engineer crafting intelligent systems that solve real-world problems. From self-evolving agents to medical AI diagnostics, I build technology that matters.
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">Quick Stats</h3>
+        <p align="center">
+          🎓 <strong>Student</strong> @ Marwadi University<br/>
+          🌍 <strong>Location:</strong> India (UTC +05:30)<br/>
+          💼 <strong>Focus:</strong> AI/ML, Computer Vision, Full Stack<br/>
+          🔬 <strong>Projects:</strong> 65+ and counting<br/>
+          🏆 <strong>Hackathons:</strong> UIDAI Data Hackathon 2026
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<!-- GitHub Stats -->
+<div align="center">
+  <h2>📊 GitHub Analytics</h2>
   
-  readonly currentMission: "Building Intelligent Systems";
-  readonly projectsDeployed: 62;
-  readonly systemStatus: "OPERATIONAL";
-}
-```
-
-</td>
-<td width="50%">
-
-<div align="center">
-
-### `> SYSTEM.METRICS`
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Nytrynox&theme=algolia&no-frame=true&no-bg=true&column=3&margin-w=15&margin-h=15" alt="Trophies"/>
-
-<br/><br/>
-
-<!-- Animated Metrics -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nytrynox&theme=algolia&hide_border=true&background=0d1117&stroke=00d9ff&ring=6e00ff&fire=00d9ff&currStreakLabel=00d9ff&sideNums=ffffff&sideLabels=6e00ff&dates=555555&currStreakNum=00d9ff"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nytrynox&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nytrynox&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=8b949e" width="49%"/>
+  
 </div>
 
-</td>
-</tr>
-</table>
+---
 
-<br/>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<!-- CORE SYSTEMS MATRIX -->
+<!-- Technology Stack -->
 <div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────────────────────────────────────────┐
-│                                      CORE SYSTEMS MATRIX                                            │
-└─────────────────────────────────────────────────────────────────────────────────────────────────────┘
-```
-
-<br/>
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-<img src="https://img.shields.io/badge/ARTIFICIAL-INTELLIGENCE-00d9ff?style=for-the-badge&labelColor=0d1117"/>
-
-<br/><br/>
-
-<img width="60" src="https://skillicons.dev/icons?i=tensorflow"/>
-<img width="60" src="https://skillicons.dev/icons?i=pytorch"/>
-
-<br/><br/>
-
-`NEURAL_CORE`
-
-</td>
-<td align="center" width="25%">
-
-<img src="https://img.shields.io/badge/COMPUTER-VISION-0062ff?style=for-the-badge&labelColor=0d1117"/>
-
-<br/><br/>
-
-<img width="60" src="https://skillicons.dev/icons?i=opencv"/>
-<img width="60" src="https://skillicons.dev/icons?i=python"/>
-
-<br/><br/>
-
-`VISION_CORE`
-
-</td>
-<td align="center" width="25%">
-
-<img src="https://img.shields.io/badge/FULL-STACK-6e00ff?style=for-the-badge&labelColor=0d1117"/>
-
-<br/><br/>
-
-<img width="60" src="https://skillicons.dev/icons?i=react"/>
-<img width="60" src="https://skillicons.dev/icons?i=nextjs"/>
-
-<br/><br/>
-
-`WEB_CORE`
-
-</td>
-<td align="center" width="25%">
-
-<img src="https://img.shields.io/badge/CLOUD-SYSTEMS-ff6b6b?style=for-the-badge&labelColor=0d1117"/>
-
-<br/><br/>
-
-<img width="60" src="https://skillicons.dev/icons?i=aws"/>
-<img width="60" src="https://skillicons.dev/icons?i=docker"/>
-
-<br/><br/>
-
-`CLOUD_CORE`
-
-</td>
-</tr>
-</table>
-
+  <h2>🛠️ Technology Arsenal</h2>
 </div>
 
-<br/>
-
-<!-- TECHNOLOGY STACK VISUALIZATION -->
 <div align="center">
+  
+  **Languages**
+  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+  ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-```
-┌─────────────────────────────────────────────────────────────────────────────────────────────────────┐
-│                                      TECHNOLOGY ARSENAL                                             │
-└─────────────────────────────────────────────────────────────────────────────────────────────────────┘
-```
+  **AI / Machine Learning**
+  
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+  ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
+  ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+  ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-<br/>
+  **Frameworks & Tools**
+  
+  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+  ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-<table>
-<tr>
-<td align="center">
+  **Cloud & DevOps**
+  
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**LANGUAGES**
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp,java&theme=dark"/>
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-**FRONTEND SYSTEMS**
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark"/>
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-**BACKEND INFRASTRUCTURE**
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=nodejs,flask,fastapi,mongodb,postgres&theme=dark"/>
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-**AI/ML FRAMEWORKS**
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark"/>
-<img width="48" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img width="48" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-**DEVOPS & TOOLS**
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=git,docker,aws,figma,vercel&theme=dark"/>
-
-</td>
-</tr>
-</table>
-
+  **Design**
+  
+  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+  ![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
+  
 </div>
 
-<br/>
+---
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<!-- ACHIEVEMENTS SECTION -->
+<!-- Featured Projects -->
 <div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────────────────────────────────────────┐
-│                                    VERIFIED ACHIEVEMENTS                                            │
-└─────────────────────────────────────────────────────────────────────────────────────────────────────┘
-```
-
-<br/>
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-<img src="https://img.shields.io/badge/HACKATHON-UIDAI_2026-ffd700?style=for-the-badge&labelColor=0d1117&logo=trophy&logoColor=ffd700"/>
-
-<br/><br/>
-
-**AadhaarInsight360**
-
-National Level Analytics Platform
-
-<br/>
-
-`STATUS: COMPLETED`
-
-</td>
-<td align="center" width="33%">
-
-<img src="https://img.shields.io/badge/CERTIFIED-TENSORFLOW-FF6F00?style=for-the-badge&labelColor=0d1117&logo=tensorflow&logoColor=FF6F00"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/CERTIFIED-AWS_ML-232F3E?style=for-the-badge&labelColor=0d1117&logo=amazonaws&logoColor=FF9900"/>
-
-<br/><br/>
-
-`VERIFIED CREDENTIALS`
-
-</td>
-<td align="center" width="33%">
-
-<img src="https://img.shields.io/badge/RESEARCH-ORCID_VERIFIED-A6CE39?style=for-the-badge&labelColor=0d1117&logo=orcid&logoColor=A6CE39"/>
-
-<br/><br/>
-
-**Active Researcher**
-
-[View Profile](https://orcid.org/0009-0008-2949-5592)
-
-<br/>
-
-`STATUS: ACTIVE`
-
-</td>
-</tr>
-</table>
-
+  <h2>🚀 Featured Projects</h2>
 </div>
 
-<br/>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<!-- PROJECT ARCHIVE -->
 <div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                                      ║
-║     ██████╗ ██████╗  ██████╗      ██╗███████╗ ██████╗████████╗     █████╗ ██████╗  ██████╗██╗  ██╗   ║
-║     ██╔══██╗██╔══██╗██╔═══██╗     ██║██╔════╝██╔════╝╚══██╔══╝    ██╔══██╗██╔══██╗██╔════╝██║  ██║   ║
-║     ██████╔╝██████╔╝██║   ██║     ██║█████╗  ██║        ██║       ███████║██████╔╝██║     ███████║   ║
-║     ██╔═══╝ ██╔══██╗██║   ██║██   ██║██╔══╝  ██║        ██║       ██╔══██║██╔══██╗██║     ██╔══██║   ║
-║     ██║     ██║  ██║╚██████╔╝╚█████╔╝███████╗╚██████╗   ██║       ██║  ██║██║  ██║╚██████╗██║  ██║   ║
-║     ╚═╝     ╚═╝  ╚═╝ ╚═════╝  ╚════╝ ╚══════╝ ╚═════╝   ╚═╝       ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝   ║
-║                                                                                                      ║
-║                              [ 62+ PROJECTS  |  7 CATEGORIES  |  CLICK TO EXPAND ]                   ║
-║                                                                                                      ║
-╚══════════════════════════════════════════════════════════════════════════════════════════════════════╝
-```
-
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🧠 SYNAPTICA</h3>
+        <p align="center">
+          Next-generation AI personal assistant with contextual understanding, task automation, and multi-platform sync. Built with PyTorch, FastAPI, and custom fine-tuned LLMs.
+        </p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+          <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+          <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">🩺 NeuroXAI</h3>
+        <p align="center">
+          Explainable AI system for early Alzheimer's detection from MRI scans. Features Grad-CAM visualizations and automated medical report generation.
+        </p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+          <img src="https://img.shields.io/badge/HIPAA-Compliant-00d4ff?style=flat-square"/>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🔄 Self-Evolving Agent</h3>
+        <p align="center">
+          Experimental AI agent with recursive self-improvement capabilities. Can modify its own code based on performance feedback in a sandboxed environment.
+        </p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/GPT--4-412991?style=flat-square&logo=openai&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">🔥 AI Wildfire Prevention</h3>
+        <p align="center">
+          Early warning system using satellite imagery and IoT sensors to detect potential wildfire outbreaks. Generates risk heatmaps and automated alerts.
+        </p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/CNN-5C3EE8?style=flat-square&logo=tensorflow&logoColor=white"/>
+          <img src="https://img.shields.io/badge/NASA_FIRMS-E03C31?style=flat-square"/>
+          <img src="https://img.shields.io/badge/GIS-4CAF50?style=flat-square"/>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🖐️ AI Gesture Control</h3>
+        <p align="center">
+          Touch-free laptop control using hand gestures. Real-time hand tracking for cursor control, clicks, scrolling, and media playback.
+        </p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+          <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white"/>
+          <img src="https://img.shields.io/badge/PyAutoGUI-3776AB?style=flat-square"/>
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">📊 AadhaarInsight360</h3>
+        <p align="center">
+          Comprehensive analytics platform for UIDAI Data Hackathon 2026. Real-time insights into Aadhaar enrolment patterns with geospatial analysis.
+        </p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<br/>
+---
 
-<!-- CATEGORY: COMPUTER VISION -->
-<details>
-<summary>
-<img src="https://img.shields.io/badge/01-COMPUTER_VISION_&_IMAGE_PROCESSING-00d9ff?style=for-the-badge&labelColor=0d1117&logo=opencv&logoColor=00d9ff"/>
-<img src="https://img.shields.io/badge/8_PROJECTS-0d1117?style=for-the-badge"/>
-</summary>
-
-<br/>
-
-| ID | Project | Description | Stack | Access |
-|:--:|:--------|:------------|:------|:------:|
-| `CV-01` | **AI Gesture Control System** | Hand gesture recognition for system control | `Python` `OpenCV` `MediaPipe` | ![Private](https://img.shields.io/badge/PRIVATE-ff4444?style=flat-square&labelColor=0d1117) |
-| `CV-02` | **AI Lane Monitoring System** | Real-time lane detection & ADAS | `Python` `CNN` `Deep Learning` | ![Private](https://img.shields.io/badge/PRIVATE-ff4444?style=flat-square&labelColor=0d1117) |
-| `CV-03` | **AI Driver Monitoring System** | Drowsiness & distraction detection | `TensorFlow` `Computer Vision` | ![Private](https://img.shields.io/badge/PRIVATE-ff4444?style=flat-square&labelColor=0d1117) |
-| `CV-04` | **Invisibility Cloak Effect** | Real-time background masking | `OpenCV` `Image Processing` | ![Private](https://img.shields.io/badge/PRIVATE-ff4444?style=flat-square&labelColor=0d1117) |
-| `CV-05` | **Sign Language Recognition** | Gesture to text/speech translation | `Python` `ML` `NLP` | ![Private](https://img.shields.io/badge/PRIVATE-ff4444?style=flat-square&labelColor=0d1117) |
-| `CV-06` | **AI Wildfire Prevention** | Early fire detection from imagery | `Deep Learning` `Satellite Data` | ![Private](https://img.shields.io/badge/PRIVATE-ff4444?style=flat-square&labelColor=0d1117) |
-| `CV-07` | **Object Tracking System** | Multi-object tracking in video | `OpenCV` `YOLO` `DeepSORT` | ![Private](https://img.shields.io/badge/PRIVATE-ff4444?style=flat-square&labelColor=0d1117) |
-| `CV-08` | **Road Detection System** | Road segmentation & analysis | `Computer Vision` `CNN` | ![Private](https://img.shields.io/badge/PRIVATE-ff4444?style=flat-square&labelColor=0d1117) |
-
-</details>
-
-<!-- CATEGORY: AI AGENTS -->
-<details>
-<summary>
-<img src="https://img.shields.io/badge/02-AI_AGENTS_&_AUTONOMOUS_SYSTEMS-0062ff?style=for-the-badge&labelColor=0d1117&logo=robot&logoColor=0062ff"/>
-<img src="https://img.shields.io/badge/8_PROJECTS-0d1117?style=for-the-badge"/>
-</summary>
-
-<br/>
-
-| ID | Project | Description | Stack | Access |
-|:--:|:--------|:------------|:------|:------:|
-| `AI-01` | **[Deep Research Agent](https://github.com/Nytrynox/Deep-Research-Agent)** | Multi-agent research with 7-source validation | `Next.js` `Gemini AI` | [![Public](https://img.shields.io/badge/PUBLIC-00ff00?style=flat-square&labelColor=0d1117)](https://github.com/Nytrynox/Deep-Research-Agent) |
-| `AI-02` | **AI Laptop Control Agent** | Autonomous desktop automation | `Python` `PyAutoGUI` `AI` | ![Private](https://img.shields.io/badge/PRIVATE-ff4444?style=flat-square&labelColor=0d1117) |
-| `AI-03` | **Self Evolving Agent** | Self-improving AI framework | `Neural Networks` `RL` | ![Private](https://img.shields.io/badge/PRIVATE-ff4444?style=flat-square&labelColor=0d1117) |
-| `AI-04` | **Universal AI Assistant** | Few-shot multi-task learning | `Meta-Learning` `Transformers` | ![Private](https://img.shields.io/badge/PRIVATE-ff4444?style=flat-square&labelColor=0d1117) |
-| `AI-05` | **OS Agent** | Operating system interaction agent | `Python` `Shell` `Automation` | ![Private](https://img.shields.io/badge/PRIVATE-ff4444?style=flat-square&labelColor=0d1117) |
-| `AI-06` | **Project End Agent** | Automated report & doc generator | `NLP` `Automation` | ![Private](https://img.shields.io/badge/PRIVATE-ff4444?style=flat-square&labelColor=0d1117) |
-| `AI-07` | **NeuroxAI** | Neural network experimentation | `Deep Learning` `Python` | ![Private](https://img.shields.io/badge/PRIVATE-ff4444?style=flat-square&labelColor=0d1117) |
-| `AI-08` | **Ori Mind** | AI cognitive assistant | `Python` `NLP` | ![Private](https://img.shields.io/badge/PRIVATE-ff4444?style=flat-square&labelColor=0d1117) |
-
-</details>
-
-<!-- CATEGORY: WEB DEVELOPMENT -->
-<details>
-<summary>
-<img src="https://img.shields.io/badge/03-WEB_DEVELOPMENT_&_PLATFORMS-6e00ff?style=for-the-badge&labelColor=0d1117&logo=react&logoColor=6e00ff"/>
-<img src="https://img.shields.io/badge/12_PROJECTS-0d1117?style=for-the-badge"/>
-</summary>
-
-<br/>
-
-| ID | Project | Description | Stack | Access |
-|:--:|:--------|:------------|:------|:------:|
-| `WEB-01` | **Infinall.ai** | Advanced AI SaaS platform | `Next.js` `React` `Node.js` | ![Private](https://img.shields.io/badge/PRIVATE-ff4444?style=flat-square&labelColor=0d1117) |
-| `WEB-02` | **SYNAPTICA** | Neural interface web platform | `React` `WebGL` `Three.js` | ![Private](https://img.shields.io/badge/PRIVATE-ff4444?style=flat-square&labelColor=0d1117) |
-| `WEB-03` | **Xerironx Studio** | Creative portfolio & studio | `Next.js` `Animations` | ![Private](https://img.shields.io/badge/PRIVATE-ff4444?style=flat-square&labelColor=0d1117) |
-| `WEB-04` | **Portfolio React** | Personal portfolio website | `React` `CSS3` `Framer` | ![Private](https://img.shields.io/badge/PRIVATE-ff4444?style=flat-square&labelColor=0d1117) |
-| `WEB-05` | **Skylight Landing Page** | Modern landing page design | `HTML` `CSS` `JS` | ![Private](https://img.shields.io/badge/PRIVATE-ff4444?style=flat-square&labelColor=0d1117) |
-| `WEB-06` | **E-Commerce Landing** | E-commerce landing page | `Web Development` | ![Private](https://img.shields.io/badge/PRIVATE-ff4444?style=flat-square&labelColor=0d1117) |
-| `WEB-07` | **Shop Platform** | Full e-commerce solution | `Full Stack` `Payments` | ![Private](https://img.shields.io/badge/PRIVATE-ff4444?style=flat-square&labelColor=0d1117) |
-| `WEB-08` | **Movie Platform** | Movie streaming/info portal | `React` `API Integration` | ![Private](https://img.shields.io/badge/PRIVATE-ff4444?style=flat-square&labelColor=0d1117) |
-| `WEB-09` | **Calculator App** | Scientific calculator | `JavaScript` `CSS` | ![Private](https://img.shields.io/badge/PRIVATE-ff4444?style=flat-square&labelColor=0d1117) |
-| `WEB-10` | **Radio App** | Online radio streaming | `Web Audio API` | ![Private](https://img.shields.io/badge/PRIVATE-ff4444?style=flat-square&labelColor=0d1117) |
-| `WEB-11` | **Browser Extension** | Chrome extension project | `JavaScript` `Chrome API` | ![Private](https://img.shields.io/badge/PRIVATE-ff4444?style=flat-square&labelColor=0d1117) |
-| `WEB-12` | **Animation Demos** | CSS/JS animation showcase | `CSS3` `GSAP` | ![Private](https://img.shields.io/badge/PRIVATE-ff4444?style=flat-square&labelColor=0d1117) |
-
-</details>
-
-<!-- CATEGORY: DATA SCIENCE -->
-<details>
-<summary>
-<img src="https://img.shields.io/badge/04-DATA_SCIENCE_&_ANALYTICS-ff6b6b?style=for-the-badge&labelColor=0d1117&logo=pandas&logoColor=ff6b6b"/>
-<img src="https://img.shields.io/badge/6_PROJECTS-0d1117?style=for-the-badge"/>
-</summary>
-
-<br/>
-
-| ID | Project | Description | Stack | Access |
-|:--:|:--------|:------------|:------|:------:|
-| `DS-01` | **[AadhaarInsight360](https://github.com/Nytrynox/AadhaarInsight360)** | UIDAI Hackathon analytics | `Streamlit` `Pandas` `Plotly` | [![Public](https://img.shields.io/badge/PUBLIC-00ff00?style=flat-square&labelColor=0d1117)](https://github.com/Nytrynox/AadhaarInsight360) |
-| `DS-02` | **Drought Early Warning** | Neural network drought prediction | `LSTM` `Climate Data` `Python` | ![Private](https://img.shields.io/badge/PRIVATE-ff4444?style=flat-square&labelColor=0d1117) |
-| `DS-03` | **Student Analysis Predictor** | Academic performance prediction | `ML` `Scikit-learn` `Pandas` | ![Private](https://img.shields.io/badge/PRIVATE-ff4444?style=flat-square&labelColor=0d1117) |
-| `DS-04` | **High-Dim Clustering** | Deep AI clustering framework | `Deep Learning` `Clustering` | ![Private](https://img.shields.io/badge/PRIVATE-ff4444?style=flat-square&labelColor=0d1117) |
-| `DS-05` | **Adversarial IRL System** | Inverse reinforcement learning | `RL` `PyTorch` `Research` | ![Private](https://img.shields.io/badge/PRIVATE-ff4444?style=flat-square&labelColor=0d1117) |
-| `DS-06` | **Research Report Generator** | Auto research paper analysis | `NLP` `PDF Processing` | ![Private](https://img.shields.io/badge/PRIVATE-ff4444?style=flat-square&labelColor=0d1117) |
-
-</details>
-
-<!-- CATEGORY: CLOUD & SECURITY -->
-<details>
-<summary>
-<img src="https://img.shields.io/badge/05-CLOUD_&_SECURITY-ffd700?style=for-the-badge&labelColor=0d1117&logo=amazonaws&logoColor=ffd700"/>
-<img src="https://img.shields.io/badge/6_PROJECTS-0d1117?style=for-the-badge"/>
-</summary>
-
-<br/>
-
-| ID | Project | Description | Stack | Access |
-|:--:|:--------|:------------|:------|:------:|
-| `CLD-01` | **Federated Learning Allocation** | Energy-efficient resource mgmt | `Federated ML` `Cloud` | ![Private](https://img.shields.io/badge/PRIVATE-ff4444?style=flat-square&labelColor=0d1117) |
-| `CLD-02` | **AI E-Governance Cloud** | Secure government services | `Cloud` `Security` `AI` | ![Private](https://img.shields.io/badge/PRIVATE-ff4444?style=flat-square&labelColor=0d1117) |
-| `CLD-03` | **Vulnerability Checker** | Security scanning tool | `Python` `Security` `Networks` | ![Private](https://img.shields.io/badge/PRIVATE-ff4444?style=flat-square&labelColor=0d1117) |
-| `CLD-04` | **AWS Infrastructure** | Cloud infrastructure projects | `AWS` `Lambda` `S3` | ![Private](https://img.shields.io/badge/PRIVATE-ff4444?style=flat-square&labelColor=0d1117) |
-| `CLD-05` | **Cloud Referee** | Cloud management system | `Cloud` `Monitoring` | ![Private](https://img.shields.io/badge/PRIVATE-ff4444?style=flat-square&labelColor=0d1117) |
-| `CLD-06` | **Security Tools Suite** | Ethical hacking utilities | `Python` `Security` | ![Private](https://img.shields.io/badge/PRIVATE-ff4444?style=flat-square&labelColor=0d1117) |
-
-</details>
-
-<!-- CATEGORY: ENTERPRISE SYSTEMS -->
-<details>
-<summary>
-<img src="https://img.shields.io/badge/06-MANAGEMENT_&_ENTERPRISE-00ffaa?style=for-the-badge&labelColor=0d1117&logo=enterprise&logoColor=00ffaa"/>
-<img src="https://img.shields.io/badge/6_PROJECTS-0d1117?style=for-the-badge"/>
-</summary>
-
-<br/>
-
-| ID | Project | Description | Stack | Access |
-|:--:|:--------|:------------|:------|:------:|
-| `ENT-01` | **Library System v2.0** | Complete library management | `Full Stack` `CRUD` `SQL` | ![Private](https://img.shields.io/badge/PRIVATE-ff4444?style=flat-square&labelColor=0d1117) |
-| `ENT-02` | **AI Attendance v2.0** | Face recognition attendance | `OpenCV` `Flask` `Python` | ![Private](https://img.shields.io/badge/PRIVATE-ff4444?style=flat-square&labelColor=0d1117) |
-| `ENT-03` | **AI Attendance v1.0** | Basic attendance tracking | `Python` `OpenCV` | ![Private](https://img.shields.io/badge/PRIVATE-ff4444?style=flat-square&labelColor=0d1117) |
-| `ENT-04` | **Bus Attendance System** | Bus-based attendance tracking | `IoT` `Computer Vision` | ![Private](https://img.shields.io/badge/PRIVATE-ff4444?style=flat-square&labelColor=0d1117) |
-| `ENT-05` | **Defense Management** | Defense management solution | `Full Stack` `Security` | ![Private](https://img.shields.io/badge/PRIVATE-ff4444?style=flat-square&labelColor=0d1117) |
-| `ENT-06` | **No Track System** | Privacy-focused tracking | `Anonymization` `Privacy` | ![Private](https://img.shields.io/badge/PRIVATE-ff4444?style=flat-square&labelColor=0d1117) |
-
-</details>
-
-<!-- CATEGORY: EXPERIMENTS -->
-<details>
-<summary>
-<img src="https://img.shields.io/badge/07-HACKATHONS_&_EXPERIMENTS-ff00ff?style=for-the-badge&labelColor=0d1117&logo=experitest&logoColor=ff00ff"/>
-<img src="https://img.shields.io/badge/8_PROJECTS-0d1117?style=for-the-badge"/>
-</summary>
-
-<br/>
-
-| ID | Project | Description | Stack | Access |
-|:--:|:--------|:------------|:------|:------:|
-| `EXP-01` | **UIDAI 815 Hackathon** | UIDAI Data Analytics Challenge | `Python` `Analytics` | ![Private](https://img.shields.io/badge/PRIVATE-ff4444?style=flat-square&labelColor=0d1117) |
-| `EXP-02` | **Gemini DevPost** | Google Gemini API hackathon | `Gemini AI` `API` | ![Private](https://img.shields.io/badge/PRIVATE-ff4444?style=flat-square&labelColor=0d1117) |
-| `EXP-03` | **Gemini Experiments** | Gemini AI experimentation | `Gemini` `Python` | ![Private](https://img.shields.io/badge/PRIVATE-ff4444?style=flat-square&labelColor=0d1117) |
-| `EXP-04` | **Dev Experiments** | Development sandbox | `Various` | ![Private](https://img.shields.io/badge/PRIVATE-ff4444?style=flat-square&labelColor=0d1117) |
-| `EXP-05` | **Gen AI Projects** | Generative AI experiments | `GenAI` `LLMs` | ![Private](https://img.shields.io/badge/PRIVATE-ff4444?style=flat-square&labelColor=0d1117) |
-| `EXP-06` | **Social Media Clone** | Social media clone | `React` `Node` | ![Private](https://img.shields.io/badge/PRIVATE-ff4444?style=flat-square&labelColor=0d1117) |
-| `EXP-07` | **Client Portfolio** | Client portfolio project | `Web Development` | ![Private](https://img.shields.io/badge/PRIVATE-ff4444?style=flat-square&labelColor=0d1117) |
-| `EXP-08` | **Personal Projects** | Personal experimentation | `Various` | ![Private](https://img.shields.io/badge/PRIVATE-ff4444?style=flat-square&labelColor=0d1117) |
-
-</details>
-
-<br/>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<!-- TRANSMISSION CHANNEL -->
+<!-- All Projects by Category -->
 <div align="center">
+  <h2>📁 Complete Project Portfolio</h2>
+  <p><i>Click on each category to explore all projects</i></p>
+</div>
 
-```
-╔══════════════════════════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                                      ║
-║      ████████╗██████╗  █████╗ ███╗   ██╗███████╗███╗   ███╗██╗████████╗                              ║
-║      ╚══██╔══╝██╔══██╗██╔══██╗████╗  ██║██╔════╝████╗ ████║██║╚══██╔══╝                              ║
-║         ██║   ██████╔╝███████║██╔██╗ ██║███████╗██╔████╔██║██║   ██║                                 ║
-║         ██║   ██╔══██╗██╔══██║██║╚██╗██║╚════██║██║╚██╔╝██║██║   ██║                                 ║
-║         ██║   ██║  ██║██║  ██║██║ ╚████║███████║██║ ╚═╝ ██║██║   ██║                                 ║
-║         ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝     ╚═╝╚═╝   ╚═╝                                 ║
-║                                                                                                      ║
-║                                    [ ALL CHANNELS ACTIVE ]                                           ║
-║                                                                                                      ║
-╚══════════════════════════════════════════════════════════════════════════════════════════════════════╝
-```
-
+<details>
+<summary><b>🤖 AI & Machine Learning (18 Projects)</b></summary>
 <br/>
 
-<!-- Connection Grid -->
-<a href="https://www.karthikidikuda.dev/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-&nbsp;
-<a href="https://www.linkedin.com/in/karthik129259/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-&nbsp;
-<a href="https://orcid.org/0009-0008-2949-5592"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/></a>
-&nbsp;
-<a href="https://x.com/Karthik64066151"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-&nbsp;
-<a href="https://www.instagram.com/_karthik.z_/"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-&nbsp;
-<a href="https://www.reddit.com/user/Conscious-Gain29/"><img src="https://img.shields.io/badge/REDDIT-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **SYNAPTICA** | AI Personal Assistant with contextual understanding and task automation | PyTorch, FastAPI, PostgreSQL |
+| **NeuroXAI** | Explainable AI for Alzheimer's detection from MRI scans | TensorFlow, Grad-CAM, React |
+| **Self-Evolving Agent** | Recursive self-improvement AI agent with code modification capabilities | GPT-4, Claude, Docker |
+| **AI Wildfire Prevention** | Early warning system using satellite imagery and IoT sensors | CNN, NASA FIRMS, GIS |
+| **Adversarial Inverse RL** | Reinforcement learning system with adversarial training | PyTorch, OpenAI Gym |
+| **Few-Shot Multi-Task Learning** | Universal AI assistant with few-shot learning capabilities | Transformers, Meta-Learning |
+| **Smart Student Predictor** | Academic performance analysis and prediction system | Scikit-learn, Pandas |
+| **Drought Early Warning** | NDDI-LSTM model for drought prediction | LSTM, Remote Sensing |
+| **AI Research Report** | Automated research paper analysis and summarization | NLP, Transformers |
+| **Federated Cloud Allocation** | Energy-efficient resource allocation using Federated Learning | TensorFlow Federated, PySpark |
+| **High-Dimensional Clustering** | Deep learning framework for big data clustering on cloud | Autoencoders, Spark |
+| **OS Agent** | Operating system automation agent | Python, System APIs |
+| **Project End Agent** | Intelligent project management assistant | LLM, Automation |
+| **Gen Projects** | Generative AI experiments and implementations | GANs, Diffusion |
+| **Gemini** | Google Gemini API integrations | Gemini API, Python |
+| **Gemini DevPost** | Hackathon project using Gemini capabilities | Gemini, Web |
+| **AI Laptop Control Agent** | Autonomous laptop control using AI | Computer Vision, Automation |
+| **Browser Agent** | Intelligent browser automation agent | Selenium, LLM |
 
-<br/><br/>
+</details>
 
-<!-- Availability Matrix -->
-<table>
-<tr>
-<td align="center">
-
-**COLLABORATION MATRIX**
-
-</td>
-</tr>
-<tr>
-<td>
-
-| OPPORTUNITY | STATUS | PRIORITY |
-|:------------|:------:|:--------:|
-| AI/ML Research & Development | ![ONLINE](https://img.shields.io/badge/ACCEPTING-00ff00?style=flat-square) | `HIGH` |
-| Full Stack Web Applications | ![ONLINE](https://img.shields.io/badge/ACCEPTING-00ff00?style=flat-square) | `HIGH` |
-| Computer Vision Projects | ![ONLINE](https://img.shields.io/badge/ACCEPTING-00ff00?style=flat-square) | `HIGH` |
-| Open Source Contributions | ![ONLINE](https://img.shields.io/badge/ACCEPTING-00ff00?style=flat-square) | `MEDIUM` |
-| Hackathon Teams | ![ONLINE](https://img.shields.io/badge/ACCEPTING-00ff00?style=flat-square) | `HIGH` |
-| Freelance Projects | ![ONLINE](https://img.shields.io/badge/ACCEPTING-00ff00?style=flat-square) | `MEDIUM` |
-
-</td>
-</tr>
-</table>
-
+<details>
+<summary><b>👁️ Computer Vision (10 Projects)</b></summary>
 <br/>
 
-<img src="https://img.shields.io/badge/INITIATE_CONTACT-VIA_LINKEDIN_OR_PORTFOLIO-00d9ff?style=for-the-badge&labelColor=0d1117"/>
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **AI Gesture Control** | Touch-free laptop control using hand gestures | OpenCV, MediaPipe, PyAutoGUI |
+| **AI Driver Monitoring** | Real-time drowsiness and distraction detection | Dlib, TensorFlow, OpenCV |
+| **AI Lane Monitoring** | Lane departure warning and tracking system | OpenCV, Deep Learning |
+| **AI Bus Attendance** | Automated student attendance on buses | Face Recognition, IoT |
+| **Attendance System v1.0** | Face recognition-based attendance with liveness detection | DeepFace, Flask |
+| **Attendance System v2.0** | Cloud-synced attendance with mobile app | MongoDB Atlas, Flutter |
+| **Harry Potter Cloak** | Invisibility cloak effect using OpenCV | OpenCV, NumPy |
+| **Sign Language** | Sign language gesture recognition | MediaPipe, TensorFlow |
+| **CCTV Google** | Smart CCTV integration with cloud | Cloud Vision, Python |
+| **YOLOv Real-time** | Real-time object detection implementations | YOLOv8, PyTorch |
 
+</details>
+
+<details>
+<summary><b>☁️ Cloud & Distributed Systems (5 Projects)</b></summary>
+<br/>
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **Federated Cloud Allocation** | Privacy-preserving energy optimization in data centers | TensorFlow Federated, PySpark |
+| **High-Dimensional Clustering** | Scalable clustering for big data on cloud | Autoencoders, Spark |
+| **AI E-Governance Cloud** | Secure AI-driven government services | AWS, Python, Security |
+| **AWS Projects** | Various AWS cloud implementations | AWS Services, Terraform |
+| **Cloud Referee Kiro** | Cloud-based refereeing and monitoring system | GCP, Real-time Processing |
+
+</details>
+
+<details>
+<summary><b>🌐 Web Development (15+ Projects)</b></summary>
+<br/>
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **Personal Portfolio** | Professional portfolio website | Next.js, React, CSS |
+| **Xerironx Studio** | Creative studio website | Modern Web Tech |
+| **Skylight Landing** | Premium landing page design | HTML, CSS, JavaScript |
+| **Cloths Landing Page** | E-commerce fashion landing | Responsive Design |
+| **OriMind** | Cognitive mind-mapping tool | D3.js, HTML Canvas |
+| **Infinall Next.js** | Next.js project template | Next.js, TypeScript |
+| **Manish Sir Portfolio** | Client portfolio website | React, Modern CSS |
+| **DocsFree** | Document management platform | Web Technologies |
+| **Animation Projects** | Web animation experiments | CSS, JavaScript |
+| **Calculator Apps** | Various calculator implementations | HTML/CSS/JS, React |
+| **Chrome Extension** | Browser extension projects | Chrome APIs, JavaScript |
+| **Developer Tools** | Development utility tools | Various |
+| **Movie Platform** | Movie browsing application | API Integration, React |
+| **Shop Platform** | E-commerce implementation | Full Stack |
+| **Radio App** | Online radio streaming | Audio APIs, Web |
+
+</details>
+
+<details>
+<summary><b>🏛️ Government & Hackathons (2 Projects)</b></summary>
+<br/>
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **AadhaarInsight360** | UIDAI Data Hackathon 2026 - Analytics platform for Aadhaar data | Streamlit, Plotly, Pandas |
+| **UIDAI-815 Hackathon** | Team UIDAI_815 submission with policy simulation tools | Python, Data Analysis |
+
+</details>
+
+<details>
+<summary><b>📚 Library & Education Systems (3 Projects)</b></summary>
+<br/>
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **Library Management v2.0** | Advanced library system with digital catalog | Full Stack |
+| **Track** | Educational tracking and monitoring | Python, Web |
+| **Website Vulnerability Checker** | Security scanning educational tool | Security, Python |
+
+</details>
+
+<details>
+<summary><b>🔒 Private Projects (2 Projects)</b></summary>
+<br/>
+
+| Project | Status | Category |
+|---------|--------|----------|
+| **CAM AI** | 🔒 Private | Computer Vision |
+| **Insta Tool** | 🔒 Private | Automation |
+
+<p align="center"><i>These projects contain proprietary code and are not publicly available.</i></p>
+
+</details>
+
+---
+
+<!-- Connect Section -->
+<div align="center">
+  <h2>🌐 Let's Connect</h2>
+</div>
+
+<div align="center">
+  
+  [![Portfolio](https://img.shields.io/badge/🌍_Portfolio-karthikidikuda.dev-00d4ff?style=for-the-badge)](https://www.karthikidikuda.dev/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Karthik_Idikuda-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karthik129259)
+  [![Twitter](https://img.shields.io/badge/Twitter-@Karthik64066151-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Karthik64066151)
+  [![Instagram](https://img.shields.io/badge/Instagram-_karthik.z_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_karthik.z_)
+  [![Reddit](https://img.shields.io/badge/Reddit-u/Conscious--Gain29-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/Conscious-Gain29)
+  [![ORCID](https://img.shields.io/badge/ORCID-0009--0008--2949--5592-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-2949-5592)
+  
 </div>
 
 <br/>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nytrynox&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ff6b6b&area=true&area_color=00d4ff" width="100%"/>
+</div>
 
-<br/>
+---
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer" width="100%"/>
+</div>
 
 <div align="center">
-
-<!-- Mission Statement -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=16&duration=4000&pause=2000&color=6E00FF&center=true&vCenter=true&width=600&height=30&lines=%22Building+intelligent+systems+that+make+a+difference%22" alt="Mission" />
-
-<br/><br/>
-
-<!-- Premium Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:1a1b27,50:00d9ff,75:6e00ff,100:0d1117&height=150&section=footer"/>
-
+  <img src="https://komarev.com/ghpvc/?username=Nytrynox&label=Profile%20Views&color=00d4ff&style=flat-square" alt="Profile Views"/>
+  <br/>
+  <i>⭐ Building intelligent systems that matter | Made with 💙 by Karthik Idikuda</i>
 </div>
