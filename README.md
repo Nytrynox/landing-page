@@ -1,6 +1,6 @@
 <!-- Animated Gradient Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0a0a,25:1a1a2e,50:16213e,75:0f3460,100:0a0a0a&height=200&section=header&text=KARTHIK%20IDIKUDA&fontSize=60&fontColor=00fff5&animation=fadeIn&fontAlignY=40&desc=AI%20Product%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20UX%20Designer&descSize=16&descAlignY=62&descColor=e94560&stroke=00fff5&strokeWidth=2" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0a0a,25:1a1a2e,50:16213e,75:0f3460,100:0a0a0a&height=200&section=header&text=KARTHIK%20IDIKUDA%20%F0%9F%87%AE%F0%9F%87%B3&fontSize=60&fontColor=00fff5&animation=fadeIn&fontAlignY=40&desc=AI%20Product%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20UX%20Designer&descSize=16&descAlignY=62&descColor=e94560&stroke=00fff5&strokeWidth=2" width="100%"/>
 </div>
 
 <!-- Neural Network Animation -->
@@ -67,8 +67,10 @@
 | | |
 |:---:|:---|
 | <img src="https://cdn-icons-png.flaticon.com/512/2641/2641457.png" width="24"/> | **Student** at Marwadi University |
-| <img src="https://cdn-icons-png.flaticon.com/512/684/684908.png" width="24"/> | **Location:** India (UTC +05:30) |
+| <img src="https://cdn-icons-png.flaticon.com/512/684/684908.png" width="24"/> | **Location:** Hyderabad, Telangana 🇮🇳 (UTC +05:30) |
 | <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="24"/> | **Focus:** AI/ML, Computer Vision, Full Stack |
+| <img src="https://cdn-icons-png.flaticon.com/512/1260/1260215.png" width="24"/> | **Design:** UX Designer | Figma Master |
+| <img src="https://cdn-icons-png.flaticon.com/512/1998/1998087.png" width="24"/> | **Vibe:** Vibe Coding | Digital Marketing |
 | <img src="https://cdn-icons-png.flaticon.com/512/1183/1183669.png" width="24"/> | **Projects:** 65+ and counting |
 
 </div>
