@@ -17,6 +17,15 @@
 
 <br/>
 
+<!-- Open To Work Badge -->
+<div align="center">
+  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00ff00?style=for-the-badge&labelColor=0a0a0a&logo=statuspage&logoColor=00ff00"/>
+  <img src="https://img.shields.io/badge/AVAILABLE%20FOR-FREELANCE-00fff5?style=for-the-badge&labelColor=0a0a0a&logo=fiverr&logoColor=00fff5"/>
+  <img src="https://img.shields.io/badge/RESPONSE%20TIME-<24%20HOURS-e94560?style=for-the-badge&labelColor=0a0a0a&logo=clockify&logoColor=e94560"/>
+</div>
+
+<br/>
+
 <!-- Profile Links -->
 <div align="center">
   
@@ -69,9 +78,18 @@
 </div>
 
 <br/>
+
+<!-- Instagram Section -->
+<div align="center">
+  <a href="https://instagram.com/_karthik.z_">
+    <img src="https://img.shields.io/badge/FOLLOW%20ON%20INSTAGRAM-_karthik.z_-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a"/>
+  </a>
+</div>
+
+<br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- Advanced Project Distribution Matrix -->
+<!-- Animated Project Distribution -->
 <div align="center">
   <h2>
     <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"/>
@@ -80,83 +98,66 @@
   </h2>
 </div>
 
-<!-- Advanced Hexagonal Grid Visualization -->
+<!-- Animated Stats Cards -->
 <div align="center">
-
-```
-    ╭─────────────────────────────────────────────────────────────────────────────╮
-    │                                                                             │
-    │      ┌───────────────────────────────────────────────────────────────┐      │
-    │      │                    █████ PROJECT NEXUS █████                   │      │
-    │      │                       ═══════════════                          │      │
-    │      │                         65+ SYSTEMS                            │      │
-    │      └───────────────────────────────────────────────────────────────┘      │
-    │                                                                             │
-    │           ╔═══════════════╗              ╔═══════════════╗                  │
-    │          ╱                 ╲            ╱                 ╲                 │
-    │         ╱   ▓▓▓▓▓▓▓▓▓▓▓▓▓   ╲          ╱   ░░░░░░░░░░░░░   ╲                │
-    │        ║   ▓▓  AI / ML  ▓▓   ║        ║   ░░  VISION  ░░   ║               │
-    │        ║   ▓▓▓  18  ▓▓▓▓▓   ║        ║   ░░░░  10  ░░░░   ║               │
-    │        ║   ▓▓▓ (28%) ▓▓▓▓   ║        ║   ░░░ (15%) ░░░░   ║               │
-    │         ╲   ▓▓▓▓▓▓▓▓▓▓▓▓▓   ╱          ╲   ░░░░░░░░░░░░░   ╱                │
-    │          ╲                 ╱            ╲                 ╱                 │
-    │           ╚═══════════════╝              ╚═══════════════╝                  │
-    │                                                                             │
-    │    ╔═══════════════╗    ╔═══════════════╗    ╔═══════════════╗             │
-    │   ╱                 ╲  ╱                 ╲  ╱                 ╲            │
-    │  ║   ████ WEB ████   ║║   ▒▒ CLOUD ▒▒   ║║   ▀▀ OTHER ▀▀   ║           │
-    │  ║   ████  15  ████   ║║   ▒▒▒  5  ▒▒▒   ║║   ▀▀▀  17  ▀▀▀   ║           │
-    │  ║   ███ (23%) ███   ║║   ▒▒ (8%) ▒▒▒   ║║   ▀▀ (26%) ▀▀▀   ║           │
-    │   ╲                 ╱  ╲                 ╱  ╲                 ╱            │
-    │    ╚═══════════════╝    ╚═══════════════╝    ╚═══════════════╝             │
-    │                                                                             │
-    │         ┌─────────────────────────────────────────────────────┐             │
-    │         │  ▓▓ AI/ML    ░░ Vision    ██ Web    ▒▒ Cloud    ▀▀ Other  │             │
-    │         └─────────────────────────────────────────────────────┘             │
-    │                                                                             │
-    ╰─────────────────────────────────────────────────────────────────────────────╯
-```
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=3000&pause=500&color=00FFF5&center=true&vCenter=true&width=600&lines=65%2B+PROJECTS+ACROSS+6+CATEGORIES;18+AI%2FML+SYSTEMS+%7C+10+VISION+PROJECTS;15+WEB+APPS+%7C+5+CLOUD+SYSTEMS" alt="Stats Typing"/>
 </div>
 
 <br/>
 
-<!-- Animated Progress Bars -->
+<!-- Project Category Cards with Animations -->
 <div align="center">
   <table>
     <tr>
-      <td align="left" width="100%">
-        <strong>AI / MACHINE LEARNING</strong>
-        <br/>
-        <img src="https://progress-bar.dev/28/?scale=100&title=18%20Projects&width=500&color=00fff5&suffix=%25" alt="AI/ML"/>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/AI%20%2F%20ML-18%20PROJECTS-00fff5?style=for-the-badge&labelColor=0a0a0a"/>
+        <br/><br/>
+        <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="80" height="80"/>
+        <br/><br/>
+        <img src="https://progress-bar.dev/28/?scale=100&width=180&color=00fff5&suffix=%25"/>
+        <br/><sub>SYNAPTICA, NeuroXAI, Self-Evolving Agent</sub>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/VISION-10%20PROJECTS-e94560?style=for-the-badge&labelColor=0a0a0a"/>
+        <br/><br/>
+        <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="80" height="80"/>
+        <br/><br/>
+        <img src="https://progress-bar.dev/15/?scale=100&width=180&color=e94560&suffix=%25"/>
+        <br/><sub>Gesture Control, Driver Monitoring, YOLO</sub>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/WEB-15%20PROJECTS-0f3460?style=for-the-badge&labelColor=0a0a0a"/>
+        <br/><br/>
+        <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="80" height="80"/>
+        <br/><br/>
+        <img src="https://progress-bar.dev/23/?scale=100&width=180&color=0f3460&suffix=%25"/>
+        <br/><sub>Portfolio, Landing Pages, E-commerce</sub>
       </td>
     </tr>
     <tr>
-      <td align="left">
-        <strong>WEB DEVELOPMENT</strong>
-        <br/>
-        <img src="https://progress-bar.dev/23/?scale=100&title=15%20Projects&width=500&color=e94560&suffix=%25" alt="Web"/>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/CLOUD-5%20PROJECTS-16213e?style=for-the-badge&labelColor=0a0a0a"/>
+        <br/><br/>
+        <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="80" height="80"/>
+        <br/><br/>
+        <img src="https://progress-bar.dev/8/?scale=100&width=180&color=16213e&suffix=%25"/>
+        <br/><sub>Federated Learning, AWS, GCP</sub>
       </td>
-    </tr>
-    <tr>
-      <td align="left">
-        <strong>COMPUTER VISION</strong>
-        <br/>
-        <img src="https://progress-bar.dev/15/?scale=100&title=10%20Projects&width=500&color=0f3460&suffix=%25" alt="Vision"/>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/HACKATHON-2%20PROJECTS-1a1a2e?style=for-the-badge&labelColor=0a0a0a"/>
+        <br/><br/>
+        <img src="https://media.giphy.com/media/uhQuegHFqkVYuFMXMQ/giphy.gif" width="80" height="80"/>
+        <br/><br/>
+        <img src="https://progress-bar.dev/3/?scale=100&width=180&color=1a1a2e&suffix=%25"/>
+        <br/><sub>AadhaarInsight360, UIDAI-815</sub>
       </td>
-    </tr>
-    <tr>
-      <td align="left">
-        <strong>CLOUD SYSTEMS</strong>
-        <br/>
-        <img src="https://progress-bar.dev/8/?scale=100&title=5%20Projects&width=500&color=16213e&suffix=%25" alt="Cloud"/>
-      </td>
-    </tr>
-    <tr>
-      <td align="left">
-        <strong>OTHER / PRIVATE</strong>
-        <br/>
-        <img src="https://progress-bar.dev/26/?scale=100&title=19%20Projects&width=500&color=1a1a2e&suffix=%25" alt="Other"/>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/PRIVATE-2%20PROJECTS-333333?style=for-the-badge&labelColor=0a0a0a"/>
+        <br/><br/>
+        <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="80" height="80"/>
+        <br/><br/>
+        <img src="https://progress-bar.dev/3/?scale=100&width=180&color=333333&suffix=%25"/>
+        <br/><sub>CAM AI, Insta Tool</sub>
       </td>
     </tr>
   </table>
@@ -445,7 +446,7 @@
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- Redesigned Connect Section - Futuristic Terminal Style -->
+<!-- Animated Connect Section -->
 <div align="center">
   <h2>
     <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"/>
@@ -454,56 +455,62 @@
   </h2>
 </div>
 
-<!-- Terminal Style Connect -->
+<!-- Animated Social Cards -->
 <div align="center">
-
-```
-┌──────────────────────────────────────────────────────────────────────────────┐
-│                                                                              │
-│   ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀    │
-│                       ░█▀▀░█▀█░█▀█░█▀█░█▀▀░█▀▀░▀█▀                           │
-│                       ░█░░░█░█░█░█░█░█░█▀▀░█░░░░█░                           │
-│                       ░▀▀▀░▀▀▀░▀░▀░▀░▀░▀▀▀░▀▀▀░░▀░                           │
-│   ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀    │
-│                                                                              │
-│   $ connect --portfolio        ➜  karthikidikuda.dev                        │
-│   $ connect --linkedin         ➜  linkedin.com/in/karthik129259             │
-│   $ connect --twitter          ➜  twitter.com/Karthik64066151               │
-│   $ connect --instagram        ➜  instagram.com/_karthik.z_                 │
-│   $ connect --reddit           ➜  reddit.com/user/Conscious-Gain29          │
-│   $ connect --orcid            ➜  orcid.org/0009-0008-2949-5592             │
-│                                                                              │
-│   ─────────────────────────────────────────────────────────────────────────  │
-│                                                                              │
-│   STATUS: ● ONLINE   │   RESPONSE TIME: < 24 HOURS   │   OPEN TO WORK       │
-│                                                                              │
-└──────────────────────────────────────────────────────────────────────────────┘
-```
-
+  <a href="https://www.karthikidikuda.dev/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-karthikidikuda.dev-00fff5?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0a0a0a"/>
+  </a>
 </div>
 
 <br/>
 
-<!-- Social Links as Futuristic Buttons -->
 <div align="center">
-  <a href="https://www.karthikidikuda.dev/">
-    <img src="https://img.shields.io/badge/▸_PORTFOLIO-00fff5?style=for-the-badge&labelColor=0a0a0a" alt="Portfolio"/>
-  </a>
-  <a href="https://linkedin.com/in/karthik129259">
-    <img src="https://img.shields.io/badge/▸_LINKEDIN-0077B5?style=for-the-badge&labelColor=0a0a0a" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/Karthik64066151">
-    <img src="https://img.shields.io/badge/▸_TWITTER-1DA1F2?style=for-the-badge&labelColor=0a0a0a" alt="Twitter"/>
-  </a>
-  <a href="https://instagram.com/_karthik.z_">
-    <img src="https://img.shields.io/badge/▸_INSTAGRAM-E4405F?style=for-the-badge&labelColor=0a0a0a" alt="Instagram"/>
-  </a>
-  <a href="https://reddit.com/user/Conscious-Gain29">
-    <img src="https://img.shields.io/badge/▸_REDDIT-FF4500?style=for-the-badge&labelColor=0a0a0a" alt="Reddit"/>
-  </a>
-  <a href="https://orcid.org/0009-0008-2949-5592">
-    <img src="https://img.shields.io/badge/▸_ORCID-A6CE39?style=for-the-badge&labelColor=0a0a0a" alt="ORCID"/>
-  </a>
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://linkedin.com/in/karthik129259">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+          <br/>
+          <img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="50"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://twitter.com/Karthik64066151">
+          <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+          <br/>
+          <img src="https://media.giphy.com/media/kaBU6pgv0OsPHz2yxy/giphy.gif" width="50"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://instagram.com/_karthik.z_">
+          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+          <br/>
+          <img src="https://media.giphy.com/media/lq3ywXrFNmUgByjUBr/giphy.gif" width="50"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://reddit.com/user/Conscious-Gain29">
+          <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
+          <br/>
+          <img src="https://media.giphy.com/media/sr8jYxYTBOKKoGsqRD/giphy.gif" width="50"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://orcid.org/0009-0008-2949-5592">
+          <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
+          <br/>
+          <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<!-- Open to Work Banner -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=OPEN+TO+WORK;AVAILABLE+FOR+FREELANCE;LET'S+BUILD+SOMETHING+AMAZING" alt="Open to Work"/>
 </div>
 
 <br/>
